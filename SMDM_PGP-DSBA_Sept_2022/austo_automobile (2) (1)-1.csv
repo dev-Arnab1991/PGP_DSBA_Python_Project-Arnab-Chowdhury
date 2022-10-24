@@ -1,0 +1,1582 @@
+Age,Gender,Profession,Marital_status,Education,No_of_Dependents,Personal_loan,House_loan,Partner_working,Salary,Partner_salary,Total_salary,Price,Make
+53,Male,Business,Married,Post Graduate,4,No,No,Yes,99300,70700,170000,61000,SUV
+53,Femal,Salaried,Married,Post Graduate,4,Yes,No,Yes,95500,70300,165800,61000,SUV
+53,Female,Salaried,Married,Post Graduate,3,No,No,Yes,97300,60700,158000,57000,SUV
+53,Female,Salaried,Married,Graduate,2,Yes,No,Yes,72500,70300,142800,61000,SUV
+53,Male,Salaried,Married,Post Graduate,3,No,No,Yes,79700,60200,139900,57000,SUV
+53,Female,Salaried,Married,Post Graduate,3,No,No,Yes,79800,60500,140300,57000,SUV
+53,Female,Salaried,Married,Post Graduate,3,Yes,No,Yes,80900,50800,131700,51000,SUV
+52,Male,Salaried,Married,Graduate,4,No,No,Yes,79100,40400,119500,68000,SUV
+52,Male,Salaried,Married,Post Graduate,4,No,No,No,89400,0,89400,61000,SUV
+52,Male,Salaried,Married,Post Graduate,3,No,No,No,83700,0,83700,57000,SUV
+52,Male,Salaried,Married,Post Graduate,4,Yes,No,No,81600,0,81600,67000,SUV
+50,Male,Salaried,Married,Post Graduate,2,No,No,No,81300,0,81300,63000,SUV
+50,Female,Salaried,Married,Graduate,3,Yes,No,No,77400,0,77400,62000,SUV
+50,Female,Salaried,Married,Post Graduate,3,No,No,No,77600,0,77600,50000,SUV
+50,Female,Business,Married,Graduate,3,No,No,No,74100,0,74100,66000,SUV
+49,Male,Salaried,Single,Post Graduate,2,No,No,No,87600,0,87600,52000,SUV
+49,Male,Business,Married,Post Graduate,3,No,No,No,86800,0,86800,60000,SUV
+49,Female,Salaried,Married,Post Graduate,4,No,No,Yes,95100,70600,165700,64000,SUV
+49,Female,Business,Married,Post Graduate,3,No,No,Yes,92600,70300,162900,58000,SUV
+49,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,98400,60600,159000,54000,SUV
+49,Male,Salaried,Married,Graduate,3,No,No,Yes,72700,60300,133000,53000,SUV
+49,Female,Salaried,Married,Post Graduate,4,Yes,No,Yes,84600,45500,130100,62000,SUV
+47,Female,Business,Married,Post Graduate,3,No,No,Yes,88000,40200,128200,55000,SUV
+46,Female,Salaried,Married,Post Graduate,3,No,No,Yes,85400,40700,126100,59000,SUV
+46,,Business,Married,Post Graduate,3,Yes,No,Yes,78000,600,78600,50000,SUV
+46,,Salaried,Married,Post Graduate,3,No,No,Yes,87900,700,88600,50000,SUV
+46,Female,Salaried,Married,Post Graduate,3,No,No,Yes,81900,27800,109700,68000,SUV
+46,Male,Salaried,Single,Post Graduate,2,No,No,No,88500,0,88500,60000,SUV
+46,Male,Salaried,Married,Post Graduate,3,No,No,No,87700,0,87700,56000,SUV
+46,Female,Salaried,Married,Post Graduate,2,No,No,Yes,98300,70700,169000,61000,SUV
+46,Male,Salaried,Married,Post Graduate,4,No,No,Yes,94900,70700,165600,67000,SUV
+46,Male,Business,Married,Graduate,2,Yes,No,Yes,91100,70000,161100,66000,SUV
+46,Male,Business,Married,Post Graduate,3,No,No,Yes,79800,40100,119900,56000,SUV
+46,Female,Salaried,Married,Graduate,4,No,No,Yes,74500,40900,115400,61000,SUV
+45,Female,Salaried,Married,Post Graduate,3,No,No,Yes,81700,27000,108700,52000,SUV
+45,Male,Salaried,Single,Post Graduate,2,Yes,No,No,84700,0,84700,59000,SUV
+45,Female,Business,Married,Post Graduate,3,No,No,No,82200,0,82200,61000,SUV
+45,Male,Salaried,Married,Graduate,3,No,No,No,79600,0,79600,54000,SUV
+45,Female,Salaried,Married,Post Graduate,3,No,No,No,77600,0,77600,64000,SUV
+45,Male,Business,Married,Graduate,3,Yes,No,No,77700,0,77700,53000,SUV
+53,Female,Salaried,Married,Graduate,1,Yes,No,No,72100,,72100,60000,SUV
+53,Female,Salaried,Married,Post Graduate,4,No,No,Yes,96600,70300,166900,66000,SUV
+52,Female,Salaried,Married,Post Graduate,3,No,No,Yes,94900,60300,155200,55000,SUV
+52,Male,Salaried,Married,Post Graduate,3,No,No,Yes,87600,,88200,51000,SUV
+52,Male,Salaried,Married,Graduate,3,Yes,No,Yes,72800,50800,123600,50000,SUV
+52,Female,Business,Married,Graduate,3,Yes,No,Yes,73500,40500,114000,59000,SUV
+52,Female,Salaried,Married,Post Graduate,4,Yes,No,No,90000,0,90000,61000,SUV
+52,Female,Business,Married,Post Graduate,1,No,No,No,87100,0,87100,62000,SUV
+52,Male,Business,Married,Post Graduate,4,No,No,No,79700,0,79700,63000,SUV
+52,Female,Business,Married,Post Graduate,4,No,No,Yes,90300,,170400,69000,SUV
+52,Female,Salaried,Married,Graduate,3,No,No,Yes,72200,60700,132900,57000,SUV
+52,Male,Business,Married,Post Graduate,3,Yes,No,Yes,78300,50400,128700,52000,SUV
+52,Male,Salaried,Married,Post Graduate,3,No,No,Yes,80900,40900,121800,50000,SUV
+52,Female,Salaried,Married,Post Graduate,3,No,No,No,90200,0,90200,57000,SUV
+51,Male,Salaried,Married,Graduate,3,No,No,No,79500,0,79500,50000,SUV
+51,Female,Business,Married,Graduate,2,No,No,No,73400,0,73400,68000,SUV
+51,Female,Salaried,Married,Post Graduate,2,No,No,Yes,90600,80400,171000,69000,SUV
+54,Male,Business,Married,Post Graduate,2,No,No,Yes,93900,60200,154100,57000,SUV
+54,Male,Salaried,Married,Post Graduate,3,No,No,Yes,82200,60900,143100,54000,SUV
+54,Male,Salaried,Married,Graduate,3,Yes,No,Yes,80600,,81000,51000,SUV
+54,Female,Salaried,Married,Post Graduate,3,Yes,No,No,85100,0,85100,54000,SUV
+54,Male,Salaried,Married,Post Graduate,3,No,No,No,82300,0,82300,64000,SUV
+54,Female,Salaried,Married,Post Graduate,3,No,No,No,82200,0,82200,58000,SUV
+54,Female,Business,Married,Post Graduate,3,No,No,No,81600,0,81600,59000,SUV
+54,Female,Business,Married,Post Graduate,2,Yes,No,No,79200,0,79200,53000,SUV
+53,Female,Business,Married,Post Graduate,3,No,No,Yes,82300,60100,142400,55000,SUV
+53,Female,Business,Married,Graduate,2,No,No,Yes,70600,70200,140800,62000,SUV
+53,,Salaried,Married,Graduate,4,Yes,No,Yes,80900,30000,110900,49000,SUV
+53,Male,Business,Married,Graduate,2,Yes,No,Yes,79300,40300,119600,55000,SUV
+53,Female,Salaried,Married,Graduate,3,Yes,No,Yes,72000,40800,112800,66000,SUV
+53,Male,Salaried,Married,Post Graduate,3,No,No,No,88200,0,88200,56000,SUV
+53,Male,Business,Married,Post Graduate,3,No,No,No,82300,0,82300,61000,SUV
+53,Male,Salaried,Married,Post Graduate,3,Yes,No,No,81000,0,81000,58000,SUV
+53,Female,Business,Married,Graduate,3,No,No,No,78400,0,78400,60000,SUV
+53,Female,Business,Married,Graduate,2,No,No,No,75400,0,75400,62000,SUV
+52,Female,Salaried,Married,Post Graduate,4,No,No,Yes,93900,70800,164700,68000,SUV
+52,Male,Salaried,Married,Graduate,2,No,No,Yes,91000,70800,161800,60000,SUV
+52,Male,Salaried,Married,Post Graduate,2,No,No,Yes,89700,900,90600,51000,SUV
+52,Female,Business,Married,Post Graduate,3,Yes,No,Yes,78800,60700,139500,55000,SUV
+52,Male,Business,Married,Post Graduate,2,Yes,No,Yes,89800,40500,130300,53000,SUV
+52,Male,Business,Single,Post Graduate,2,No,No,No,89900,0,89900,62000,SUV
+52,Male,Salaried,Married,Post Graduate,4,No,No,No,88700,0,88700,64000,SUV
+52,Female,Salaried,Married,Post Graduate,2,No,No,No,88900,0,88900,54000,SUV
+52,Female,Salaried,Married,Post Graduate,3,No,No,No,83300,0,83300,52000,SUV
+52,Female,Salaried,Married,Post Graduate,3,No,No,No,79000,0,79000,57000,SUV
+52,Female,Salaried,Married,Post Graduate,2,No,No,No,77500,0,77500,58000,SUV
+52,Male,Salaried,Married,Graduate,3,No,No,No,76800,0,76800,53000,SUV
+51,Male,Salaried,Married,Post Graduate,3,No,No,Yes,92600,60900,153500,55000,SUV
+51,Male,Salaried,Married,Graduate,3,No,No,Yes,71700,60200,131900,55000,SUV
+51,Male,Salaried,Married,Post Graduate,2,No,No,Yes,89500,40200,129700,60000,SUV
+51,Female,Business,Married,Graduate,3,No,No,Yes,76800,45000,121800,51000,SUV
+51,Male,Salaried,Married,Graduate,3,Yes,No,Yes,77000,40600,117600,57000,SUV
+51,Male,Salaried,Married,Post Graduate,4,No,No,No,86000,0,86000,67000,SUV
+51,Male,Salaried,Single,Post Graduate,0,Yes,No,No,86900,0,86900,51000,SUV
+51,Female,Business,Married,Post Graduate,3,Yes,No,No,85900,0,85900,51000,SUV
+51,Male,Business,Married,Post Graduate,2,No,No,No,79900,0,79900,63000,SUV
+51,Male,Salaried,Married,Post Graduate,3,No,No,No,78400,0,78400,66000,SUV
+51,Male,Salaried,Married,Graduate,4,No,No,No,74800,0,74800,64000,SUV
+50,Female,Salaried,Married,Post Graduate,4,Yes,No,Yes,99300,70000,169300,66000,SUV
+50,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,98600,60500,159100,56000,SUV
+50,Male,Salaried,Married,Graduate,3,No,No,Yes,76100,50700,126800,53000,SUV
+50,Male,Business,Married,Post Graduate,2,Yes,No,No,82700,0,82700,61000,SUV
+50,Male,Salaried,Married,Graduate,4,No,No,No,72000,0,72000,70000,SUV
+49,Male,Business,Married,Graduate,4,No,No,Yes,92300,70000,162300,67000,SUV
+49,Female,Salaried,Married,Post Graduate,3,No,No,Yes,80600,40600,121200,69000,SUV
+49,Female,Business,Married,Post Graduate,3,No,No,No,87500,0,87500,53000,SUV
+49,Male,Salaried,Married,Post Graduate,4,No,No,No,80100,0,80100,64000,SUV
+49,Female,Salaried,Married,Post Graduate,3,No,No,No,78700,0,78700,68000,SUV
+49,Female,Business,Married,Post Graduate,4,No,No,No,78100,0,78100,65000,SUV
+49,Male,Salaried,Married,Post Graduate,3,No,No,No,78200,0,78200,58000,SUV
+49,Male,Salaried,Single,Graduate,2,Yes,No,No,77600,0,77600,67000,SUV
+48,Female,Business,Married,Graduate,3,No,No,Yes,90300,,161100,62000,SUV
+48,Female,Salaried,Married,Graduate,2,No,No,Yes,77900,60300,138200,53000,SUV
+48,Male,Salaried,Married,Post Graduate,2,Yes,No,No,82300,0,82300,59000,SUV
+48,Male,Salaried,Married,Post Graduate,2,No,No,No,81600,0,81600,65000,SUV
+48,Female,Salaried,Married,Post Graduate,3,No,No,No,78000,,78000,59000,SUV
+47,Male,Business,Married,Graduate,4,Yes,No,Yes,86000,80500,166500,69000,SUV
+47,Male,Salaried,Married,Graduate,2,No,No,Yes,86100,70800,156900,58000,SUV
+47,Female,Salaried,Married,Graduate,3,No,No,Yes,79000,50400,129400,52000,SUV
+47,Male,Business,Married,Post Graduate,2,No,No,Yes,86600,40400,127000,68000,SUV
+47,Female,Salaried,Married,Graduate,1,Yes,No,Yes,77800,40300,118100,69000,SUV
+47,Male,Business,Married,Post Graduate,4,Yes,No,Yes,89500,27700,117200,62000,SUV
+47,Female,Business,Married,Graduate,3,Yes,No,Yes,76300,40600,116900,61000,SUV
+47,Female,Salaried,Married,Graduate,3,No,No,Yes,76200,35800,112000,63000,SUV
+47,Female,Salaried,Married,Post Graduate,3,No,No,Yes,78000,26600,104600,57000,SUV
+47,,Salaried,Single,Post Graduate,2,Yes,No,No,87200,0,87200,49000,SUV
+47,Female,Salaried,Married,Post Graduate,3,No,No,No,81200,0,81200,58000,SUV
+47,Female,Business,Married,Post Graduate,3,Yes,No,No,80600,0,80600,69000,SUV
+47,Female,Business,Single,Graduate,0,Yes,No,No,73300,0,73300,50000,SUV
+47,Male,Salaried,Married,Graduate,3,No,No,No,71700,0,71700,51000,SUV
+46,Female,Salaried,Married,Post Graduate,3,No,No,Yes,98900,60000,158900,56000,SUV
+46,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,97700,60000,157700,58000,SUV
+46,Male,Salaried,Married,Post Graduate,2,No,No,Yes,82200,40900,123100,66000,SUV
+46,Female,Salaried,Married,Graduate,3,No,No,Yes,72600,900,73500,51000,SUV
+46,Female,Business,Married,Graduate,3,No,No,Yes,74200,27900,102100,52000,SUV
+46,Female,Salaried,Married,Post Graduate,3,Yes,No,No,90700,0,90700,50000,SUV
+46,Female,Salaried,Married,Post Graduate,3,No,No,No,84000,0,84000,58000,SUV
+46,Female,Business,Married,Post Graduate,3,No,No,No,84800,0,84800,57000,SUV
+46,Female,Salaried,Single,Post Graduate,0,Yes,No,No,80200,0,80200,49000,SUV
+46,Male,Salaried,Married,Post Graduate,2,Yes,No,No,79200,0,79200,50000,SUV
+46,Female,Salaried,Married,Graduate,4,No,No,No,70400,0,70400,49000,SUV
+45,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,71000,60800,131800,57000,SUV
+45,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,84300,40000,124300,43000,Sedan
+45,Female,Salaried,Married,Graduate,4,Yes,No,Yes,53800,70100,123900,64000,SUV
+45,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,85200,38100,123300,53000,Sedan
+45,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,85600,38200,123800,47000,Sedan
+45,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,80400,40400,120800,37000,SUV
+45,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,79700,40300,120000,52000,Sedan
+45,Male,Business,Married,Post Graduate,2,Yes,No,Yes,77100,40900,118000,35000,Sedan
+45,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,76000,40200,116200,42000,Sedan
+45,Female,Business,Married,Post Graduate,2,Yes,No,Yes,82300,30200,112500,33000,Sedan
+45,Male,Salaried,Married,Post Graduate,4,No,No,Yes,71700,40600,112300,61000,SUV
+45,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,71800,38500,110300,43000,Sedan
+45,Female,Salaried,Married,Graduate,2,No,Yes,Yes,64400,40400,104800,37000,SUV
+45,Female,Salaried,Married,Post Graduate,2,No,No,Yes,73000,30000,103000,34000,Sedan
+45,Male,Salaried,Married,Graduate,3,No,No,Yes,49600,50900,100500,52000,SUV
+45,Female,Salaried,Married,Graduate,1,Yes,No,Yes,61300,35100,96400,40000,SUV
+45,Female,Business,Married,Graduate,3,No,No,Yes,50500,40900,91400,62000,SUV
+45,Female,Salaried,Married,Post Graduate,2,No,No,No,78100,0,78100,52000,SUV
+45,Male,Salaried,Married,Post Graduate,1,Yes,No,No,78600,0,78600,50000,Sedan
+45,Female,Salaried,Single,Post Graduate,1,No,No,No,77000,0,77000,40000,Sedan
+45,Female,Salaried,Married,Post Graduate,1,No,Yes,No,73100,0,73100,36000,SUV
+45,Female,Salaried,Married,Graduate,3,Yes,No,No,72500,0,72500,51000,SUV
+45,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,71300,,71300,42000,Sedan
+45,Male,Business,Married,Graduate,1,Yes,No,No,56700,,56700,54000,Sedan
+45,Male,Salaried,Married,Graduate,2,No,No,No,55100,,55100,65000,SUV
+45,Male,Business,Married,Graduate,4,No,No,No,55500,0,55500,61000,SUV
+45,Female,Salaried,Single,Graduate,2,Yes,No,No,55700,0,55700,36000,Sedan
+45,Female,Salaried,Married,Graduate,2,No,No,No,54000,0,54000,54000,Sedan
+44,Female,Salaried,Married,Graduate,3,Yes,No,Yes,55900,70300,126200,59000,SUV
+44,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,85300,38700,124000,41000,Sedan
+44,Female,Business,Married,Post Graduate,2,Yes,Yes,Yes,81500,40600,122100,37000,Sedan
+44,Female,Business,Married,Graduate,4,No,No,Yes,48600,70800,119400,67000,SUV
+44,Male,Business,Married,Post Graduate,2,No,No,Yes,80000,38300,118300,41000,Sedan
+44,Male,Business,Married,Post Graduate,1,Yes,Yes,Yes,79700,38900,118600,41000,Sedan
+44,Male,Salaried,Married,Graduate,3,No,No,Yes,46900,70600,117500,59000,SUV
+44,Female,Salaried,Married,Post Graduate,2,No,No,Yes,76000,40200,116200,50000,Sedan
+44,Female,Business,Married,Post Graduate,1,Yes,Yes,Yes,76500,38100,114600,48000,Sedan
+44,Male,Business,Married,Post Graduate,1,Yes,No,Yes,73600,40100,113700,44000,Sedan
+44,Male,Business,Married,Post Graduate,1,Yes,No,Yes,74600,38700,113300,44000,Sedan
+44,Female,Business,Married,Post Graduate,2,Yes,Yes,Yes,71600,38900,110500,43000,Sedan
+44,Male,Business,Married,Post Graduate,2,Yes,No,Yes,79400,23200,102600,50000,Sedan
+44,Male,Business,Married,Graduate,2,No,No,Yes,57300,38200,95500,49000,Sedan
+44,Female,Salaried,Married,Graduate,2,No,Yes,Yes,56500,38700,95200,41000,SUV
+44,Female,Business,Married,Graduate,2,Yes,No,Yes,54200,40300,94500,35000,Sedan
+44,Female,Business,Married,Post Graduate,2,Yes,Yes,No,85900,0,85900,49000,SUV
+44,Female,Salaried,Married,Graduate,1,Yes,No,Yes,60200,24700,84900,41000,Sedan
+44,Female,Business,Single,Post Graduate,2,No,No,No,84000,0,84000,31000,Sedan
+44,Male,Salaried,Married,Post Graduate,1,Yes,No,No,83300,0,83300,54000,Sedan
+44,Female,Salaried,Married,Post Graduate,1,No,No,No,83800,0,83800,53000,Sedan
+44,Male,Business,Single,Post Graduate,2,No,No,No,82500,0,82500,44000,Sedan
+44,Female,Salaried,Married,Graduate,1,Yes,No,Yes,50500,30800,81300,32000,Sedan
+44,Male,Business,Married,Post Graduate,1,Yes,No,No,79300,0,79300,33000,Sedan
+44,Male,Salaried,Married,Graduate,3,No,No,Yes,50300,28100,78400,60000,SUV
+44,Male,Salaried,Married,Post Graduate,1,Yes,No,No,77200,0,77200,39000,Sedan
+44,Female,Salaried,Married,Post Graduate,1,Yes,No,No,76700,0,76700,51000,SUV
+44,Male,Salaried,Single,Post Graduate,2,Yes,No,No,76300,0,76300,31000,Sedan
+44,Female,Business,Single,Post Graduate,1,Yes,No,No,73200,0,73200,52000,Sedan
+44,Male,Business,Single,Post Graduate,2,No,Yes,No,73400,0,73400,33000,Sedan
+44,Male,Salaried,Married,Post Graduate,3,No,No,No,72600,0,72600,53000,SUV
+44,Male,Salaried,Married,Post Graduate,1,No,Yes,No,72800,0,72800,42000,Sedan
+44,Male,Salaried,Single,Post Graduate,2,No,No,No,70100,0,70100,68000,SUV
+44,Male,Salaried,Married,Post Graduate,2,Yes,No,No,69600,0,69600,57000,SUV
+44,,Salaried,Single,Post Graduate,0,Yes,No,No,68600,0,68600,50000,SUV
+44,Female,Business,Married,Graduate,1,Yes,No,No,65400,0,65400,45000,SUV
+44,Male,Salaried,Married,Graduate,2,No,Yes,No,57100,,57100,51000,Sedan
+44,Female,Salaried,Married,Graduate,1,Yes,No,No,54600,0,54600,49000,SUV
+44,Female,Salaried,Married,Graduate,2,No,No,No,50400,0,50400,65000,SUV
+44,Female,Business,Single,Graduate,2,No,No,No,49200,0,49200,54000,SUV
+43,Female,Salaried,Married,Graduate,4,Yes,No,Yes,53400,,123900,64000,SUV
+43,Female,Business,Married,Post Graduate,1,Yes,No,Yes,84900,38300,123200,45000,SUV
+43,Female,Business,Married,Post Graduate,1,Yes,No,Yes,81500,40700,122200,35000,Sedan
+43,Male,Salaried,Married,Post Graduate,1,No,Yes,Yes,77800,40800,118600,39000,Sedan
+43,Male,Salaried,Married,Post Graduate,2,No,No,Yes,77700,38400,116100,42000,Sedan
+43,Male,Business,Married,Post Graduate,1,Yes,Yes,Yes,76100,38000,114100,52000,Sedan
+43,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,75200,38300,113500,46000,Sedan
+43,Female,Salaried,Married,Graduate,2,No,No,Yes,52100,60000,112100,58000,SUV
+43,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,84000,23100,107100,50000,Sedan
+43,Male,Salaried,Married,Post Graduate,2,No,No,Yes,75300,30100,105400,31000,Sedan
+43,Male,Business,Married,Graduate,2,No,No,Yes,62700,40800,103500,39000,Sedan
+43,Male,Business,Married,Graduate,1,Yes,No,Yes,59000,38000,97000,46000,Sedan
+43,Male,Salaried,Married,Graduate,1,Yes,Yes,Yes,58100,38400,96500,51000,Sedan
+43,Male,Business,Married,Graduate,1,No,No,Yes,57400,38200,95600,54000,Sedan
+43,Male,Salaried,Married,Graduate,4,No,No,Yes,51600,40500,92100,69000,SUV
+43,Male,Salaried,Married,Graduate,2,No,No,Yes,52700,38500,91200,53000,Sedan
+43,Male,Business,Married,Graduate,2,No,Yes,Yes,56900,30200,87100,32000,Sedan
+43,Male,Business,Married,Post Graduate,2,Yes,Yes,No,82600,0,82600,32000,Sedan
+43,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,78100,0,78100,55000,Sedan
+43,Female,Salaried,Married,Post Graduate,1,No,Yes,No,78000,0,78000,32000,Sedan
+43,Female,Salaried,Married,Graduate,2,Yes,No,Yes,52900,25700,78600,39000,SUV
+43,Male,Business,Single,Post Graduate,1,Yes,No,No,75300,0,75300,47000,Sedan
+43,Female,Salaried,Married,Post Graduate,1,No,No,No,75300,0,75300,47000,Sedan
+43,Female,Salaried,Married,Post Graduate,3,No,No,No,72900,0,72900,57000,SUV
+43,Female,Business,Single,Post Graduate,2,Yes,No,No,72600,0,72600,46000,Sedan
+43,Female,Business,Married,Graduate,2,No,No,No,71100,0,71100,62000,SUV
+43,Male,Salaried,Single,Post Graduate,2,Yes,No,No,71800,0,71800,47000,Sedan
+43,Female,Business,Married,Graduate,1,Yes,Yes,No,62300,0,62300,32000,Sedan
+43,Female,Salaried,Married,Graduate,1,Yes,No,No,61600,0,61600,42000,Sedan
+43,Male,Salaried,Married,Graduate,4,Yes,No,No,54500,,54500,69000,SUV
+43,Male,Salaried,Married,Graduate,1,Yes,No,No,54900,0,54900,35000,Sedan
+43,Male,Salaried,Married,Graduate,1,Yes,No,No,53600,0,53600,48000,Sedan
+43,Male,Salaried,Single,Graduate,2,Yes,No,No,53300,,53300,33000,Sedan
+43,Male,Business,Married,Graduate,2,Yes,No,No,51600,0,51600,34000,Sedan
+42,Male,Salaried,Married,Post Graduate,1,Yes,Yes,Yes,85400,40100,125500,43000,Sedan
+42,Male,Salaried,Married,Post Graduate,3,No,No,Yes,74500,50700,125200,50000,SUV
+42,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,83800,38300,122100,50000,Sedan
+42,Female,Salaried,Married,Graduate,4,No,No,Yes,50100,70400,120500,65000,SUV
+42,Female,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,80200,40800,121000,39000,SUV
+42,Male,Salaried,Married,Post Graduate,2,No,No,Yes,78500,40700,119200,37000,Sedan
+42,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,75500,200,75700,33000,Sedan
+42,Female,Business,Married,Post Graduate,2,No,No,Yes,74700,40800,115500,38000,Sedan
+42,Female,Salaried,Married,Post Graduate,2,No,No,Yes,73800,38300,112100,53000,Sedan
+42,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,82700,27700,110400,43000,Sedan
+42,Female,Business,Married,Post Graduate,2,No,Yes,Yes,78500,30900,109400,32000,SUV
+42,Female,Business,Married,Post Graduate,2,No,No,Yes,80900,26100,107000,32000,SUV
+42,Female,Salaried,Married,Graduate,1,No,Yes,Yes,59900,45700,105600,39000,Sedan
+42,Male,Business,Married,Graduate,2,Yes,Yes,Yes,56200,38700,94900,49000,Sedan
+42,Female,Salaried,Married,Graduate,2,Yes,No,Yes,56800,38100,94900,45000,SUV
+42,Female,Business,Married,Graduate,2,No,No,Yes,54300,400,54700,31000,SUV
+42,Female,Salaried,Married,Post Graduate,2,No,No,No,83700,0,83700,36000,SUV
+42,Male,Business,Married,Graduate,2,Yes,No,Yes,51000,28200,79200,38000,Sedan
+42,Male,Business,Single,Post Graduate,1,Yes,No,No,77700,0,77700,49000,Sedan
+42,Male,Business,Married,Post Graduate,1,No,No,No,76300,0,76300,36000,Sedan
+42,Male,Salaried,Single,Post Graduate,2,Yes,No,No,76400,0,76400,36000,Sedan
+42,Female,Business,Single,Post Graduate,2,Yes,No,No,73500,0,73500,35000,Sedan
+42,Female,Business,Single,Post Graduate,1,No,No,No,73700,0,73700,33000,Sedan
+42,Female,Salaried,Married,Post Graduate,2,No,No,No,68800,0,68800,61000,SUV
+42,Male,Salaried,Married,Post Graduate,3,No,No,No,68900,0,68900,59000,SUV
+42,Male,Salaried,Single,Graduate,2,No,Yes,No,63800,0,63800,41000,Sedan
+42,Male,Salaried,Married,Graduate,2,Yes,Yes,No,61800,0,61800,46000,Sedan
+42,Female,Salaried,Married,Graduate,2,Yes,No,No,57100,,57100,45000,SUV
+42,Female,Salaried,Married,Graduate,1,Yes,Yes,No,56200,0,56200,47000,Sedan
+42,Female,Salaried,Single,Graduate,2,No,No,No,53700,0,53700,63000,SUV
+42,Male,Salaried,Married,Graduate,1,Yes,Yes,No,53000,0,53000,45000,Sedan
+42,Male,Salaried,Married,Graduate,3,No,No,No,52300,0,52300,57000,SUV
+42,Female,Salaried,Married,Graduate,1,No,No,No,52500,,52500,49000,SUV
+42,Male,Business,Married,Graduate,3,Yes,No,No,51800,0,51800,59000,SUV
+41,Male,Salaried,Married,Post Graduate,3,No,No,Yes,87000,70900,157900,61000,SUV
+41,Male,Business,Married,Post Graduate,3,No,No,Yes,67200,70000,137200,61000,SUV
+41,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,85500,38800,124300,52000,Sedan
+41,Male,Business,Married,Post Graduate,1,No,Yes,Yes,75900,40100,116000,43000,Sedan
+41,Female,Salaried,Married,Post Graduate,3,No,No,Yes,69100,45200,114300,67000,SUV
+41,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,70200,38300,108500,54000,Sedan
+41,Female,Business,Married,Post Graduate,1,Yes,Yes,Yes,82900,26800,109700,45000,Sedan
+41,Female,Business,Married,Post Graduate,2,No,No,Yes,70500,,105800,33000,Sedan
+41,Female,Business,Married,Graduate,2,No,No,Yes,60600,40300,100900,38000,Sedan
+41,Female,Salaried,Married,Graduate,2,No,Yes,Yes,59300,38900,98200,52000,Sedan
+41,Female,Salaried,Married,Graduate,2,Yes,No,Yes,47600,50900,98500,51000,SUV
+41,Male,Business,Married,Graduate,1,Yes,No,Yes,63800,30900,94700,54000,Sedan
+41,Female,Salaried,Married,Graduate,1,No,No,Yes,59200,26800,86000,38000,Sedan
+41,Male,Salaried,Single,Post Graduate,1,No,No,No,81900,0,81900,32000,Sedan
+41,Male,Business,Married,Post Graduate,4,No,No,No,74000,0,74000,64000,SUV
+41,Female,Salaried,Married,Post Graduate,2,No,No,No,73400,,73400,45000,SUV
+41,Female,Salaried,Married,Post Graduate,2,Yes,No,No,72500,0,72500,44000,Sedan
+41,Female,Salaried,Single,Post Graduate,2,No,No,No,71800,0,71800,66000,SUV
+41,Female,Salaried,Married,Post Graduate,1,No,Yes,No,71400,0,71400,36000,SUV
+41,Male,Salaried,Married,Post Graduate,3,No,No,No,69400,0,69400,57000,SUV
+41,Male,Business,Married,Graduate,1,Yes,No,No,64300,0,64300,44000,Sedan
+41,Female,Salaried,Married,Graduate,1,Yes,Yes,No,62200,0,62200,42000,Sedan
+41,Female,Business,Married,Graduate,1,Yes,Yes,No,58300,0,58300,52000,Sedan
+41,Female,Salaried,Married,Graduate,1,Yes,Yes,No,58300,0,58300,39000,Sedan
+41,Male,Salaried,Married,Graduate,2,Yes,Yes,No,57700,0,57700,53000,Sedan
+41,,Salaried,Married,Graduate,1,Yes,No,No,55900,0,55900,32000,Sedan
+41,Female,Salaried,Single,Graduate,1,No,No,No,54400,0,54400,49000,Sedan
+40,Male,Salaried,Married,Post Graduate,4,No,No,Yes,71700,70700,142400,61000,SUV
+40,Femle,Business,Married,Post Graduate,4,No,No,Yes,70000,70800,140800,65000,SUV
+40,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,74200,60400,134600,57000,SUV
+40,Male,Salaried,Married,Post Graduate,2,No,No,Yes,84500,40900,125400,32000,Sedan
+40,Male,Business,Married,Post Graduate,2,No,Yes,Yes,82100,40800,122900,39000,Sedan
+40,Male,Salaried,Married,Post Graduate,2,No,No,Yes,81300,38800,120100,43000,Sedan
+40,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,81500,38700,120200,40000,Sedan
+40,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,77000,40400,117400,41000,Sedan
+40,Male,Salaried,Married,Post Graduate,2,No,No,Yes,76300,40100,116400,53000,Sedan
+40,Female,Business,Married,Post Graduate,2,Yes,Yes,Yes,71200,38300,109500,49000,SUV
+40,Female,Salaried,Married,Graduate,2,No,No,Yes,64400,30300,94700,32000,SUV
+40,Female,Salaried,Married,Graduate,4,Yes,No,Yes,52900,40500,93400,63000,SUV
+40,Female,Salaried,Married,Graduate,1,Yes,No,Yes,52400,40800,93200,41000,Sedan
+40,Male,Business,Married,Graduate,2,Yes,No,Yes,51700,40100,91800,36000,Sedan
+40,Female,Business,Married,Post Graduate,1,Yes,Yes,No,85000,0,85000,33000,Sedan
+40,Male,Salaried,Married,Post Graduate,1,Yes,No,No,83300,0,83300,50000,Sedan
+40,Female,Business,Married,Post Graduate,1,No,No,No,80800,0,80800,48000,Sedan
+40,Male,Salaried,Married,Post Graduate,2,Yes,No,No,75200,0,75200,64000,SUV
+40,Female,Salaried,Married,Post Graduate,3,Yes,No,No,74000,0,74000,62000,SUV
+40,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,73900,0,73900,42000,Sedan
+40,Male,Salaried,Married,Post Graduate,2,Yes,No,No,72800,0,72800,51000,SUV
+40,,Business,Married,Graduate,1,No,Yes,No,59600,0,59600,31000,Sedan
+40,Male,Salaried,Married,Graduate,1,No,Yes,No,58400,,58400,44000,Sedan
+40,Female,Salaried,Married,Graduate,1,No,No,No,50000,,50000,50000,Sedan
+40,Male,Business,Married,Graduate,2,No,No,No,48300,0,48300,64000,SUV
+39,Female,Salaried,Married,Post Graduate,3,No,No,Yes,87500,70700,158200,68000,SUV
+39,Male,Salaried,Married,Post Graduate,4,No,No,Yes,68000,70000,138000,63000,SUV
+39,Female,Salaried,Married,Post Graduate,1,No,Yes,Yes,84300,40500,124800,34000,Sedan
+39,Female,Salaried,Married,Graduate,3,No,No,Yes,52500,70300,122800,60000,SUV
+39,Female,Business,Married,Post Graduate,4,No,No,Yes,72300,25800,98100,49000,SUV
+39,Female,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,78100,40900,119000,39000,SUV
+39,Male,Salaried,Married,Post Graduate,2,No,No,Yes,79300,38000,117300,40000,Sedan
+39,Male,Business,Married,Post Graduate,1,Yes,Yes,Yes,76200,800,77000,33000,Sedan
+39,Female,Salaried,Married,Graduate,3,Yes,No,Yes,55500,60900,116400,55000,SUV
+39,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,74900,40700,115600,58000,SUV
+39,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,76800,,115400,50000,Sedan
+39,Male,Business,Married,Post Graduate,1,Yes,No,Yes,75900,38400,114300,54000,Sedan
+39,Female,Salaried,Married,Post Graduate,1,No,No,Yes,73200,40100,113300,35000,Sedan
+39,Male,Salaried,Married,Post Graduate,1,No,Yes,Yes,71900,38600,110500,49000,Sedan
+39,Female,Business,Married,Post Graduate,2,Yes,No,Yes,70100,38700,108800,46000,Sedan
+39,Female,Salaried,Married,Post Graduate,1,No,Yes,Yes,78800,200,79000,32000,Sedan
+39,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,73500,30800,104300,34000,Sedan
+39,Female,Salaried,Married,Post Graduate,1,Yes,Yes,Yes,78300,24500,102800,51000,SUV
+39,Female,Salaried,Married,Graduate,2,Yes,Yes,Yes,64600,38900,103500,49000,SUV
+39,Male,Salaried,Married,Graduate,2,Yes,No,Yes,60400,40200,100600,36000,Sedan
+39,Female,Salaried,Married,Graduate,1,No,No,Yes,58800,40600,99400,37000,SUV
+39,Female,Business,Married,Graduate,2,Yes,No,Yes,57800,40300,98100,54000,Sedan
+39,Female,Business,Married,Graduate,2,Yes,Yes,Yes,59300,38800,98100,51000,Sedan
+39,Male,Business,Married,Graduate,2,Yes,Yes,Yes,57400,38300,95700,46000,Sedan
+39,Female,Salaried,Married,Graduate,2,No,No,Yes,54900,40300,95200,54000,Sedan
+39,Male,Business,Married,Graduate,2,Yes,No,Yes,57500,30700,88200,34000,Sedan
+39,Male,Salaried,Married,Post Graduate,1,Yes,No,No,83900,0,83900,47000,Sedan
+39,Female,Salaried,Married,Post Graduate,1,Yes,No,No,83300,0,83300,39000,Sedan
+39,Female,Salaried,Married,Graduate,2,No,No,Yes,51800,28500,80300,68000,SUV
+39,Male,Business,Married,Post Graduate,2,No,Yes,No,78900,0,78900,34000,Sedan
+39,Female,Salaried,Married,Graduate,2,No,Yes,Yes,51500,24900,76400,45000,SUV
+39,Male,Business,Married,Post Graduate,3,No,No,No,73000,0,73000,67000,SUV
+39,Male,Business,Single,Post Graduate,1,No,No,No,71800,,71800,54000,Sedan
+39,Female,Business,Married,Post Graduate,1,Yes,No,No,71500,0,71500,36000,SUV
+39,Male,Business,Married,Post Graduate,4,No,No,No,68900,,68900,65000,SUV
+39,Female,Salaried,Married,Post Graduate,2,Yes,No,No,68900,0,68900,55000,SUV
+39,Female,Business,Married,Graduate,2,Yes,Yes,No,60100,0,60100,38000,Sedan
+39,Male,Salaried,Single,Graduate,1,Yes,Yes,No,59500,,59500,55000,Sedan
+39,Male,Salaried,Married,Graduate,3,Yes,No,No,55000,0,55000,57000,SUV
+39,Male,Business,Married,Graduate,1,Yes,Yes,No,55800,0,55800,55000,Sedan
+39,Female,Salaried,Married,Graduate,2,No,No,No,48600,0,48600,63000,SUV
+38,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,84900,38500,123400,52000,Sedan
+38,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,81800,40600,122400,38000,Sedan
+38,Male,Business,Married,Post Graduate,2,No,No,Yes,82700,38500,121200,47000,Sedan
+38,Male,Business,Married,Post Graduate,2,No,No,Yes,80200,40400,120600,35000,Sedan
+38,Female,Salaried,Married,Graduate,4,Yes,No,Yes,49700,70500,120200,64000,SUV
+38,Female,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,81700,38200,119900,46000,Sedan
+38,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,79000,,117400,46000,Sedan
+38,Male,Salaried,Married,Post Graduate,1,No,No,Yes,76600,40100,116700,45000,Sedan
+38,Female,Business,Married,Post Graduate,3,Yes,No,Yes,73000,40300,113300,57000,SUV
+38,Male,Salaried,Married,Post Graduate,2,No,No,Yes,75300,38700,114000,43000,Sedan
+38,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,72200,40300,112500,52000,Sedan
+38,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,72800,40600,113400,39000,SUV
+38,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,70200,40000,110200,57000,SUV
+38,Male,Business,Married,Post Graduate,2,Yes,Yes,Yes,72400,38700,111100,48000,Sedan
+38,Female,Salaried,Married,Graduate,3,No,No,Yes,49300,60400,109700,56000,SUV
+38,Female,Business,Married,Post Graduate,2,Yes,No,Yes,71500,35900,107400,50000,Sedan
+38,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,72900,30500,103400,34000,Sedan
+38,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,55300,40500,95800,39000,Sedan
+38,Male,Business,Married,Graduate,2,Yes,No,Yes,51800,40800,92600,43000,Sedan
+38,Male,Business,Married,Graduate,2,Yes,No,Yes,50900,40300,91200,55000,SUV
+38,Male,Salaried,Married,Graduate,2,Yes,No,Yes,50100,40000,90100,54000,Sedan
+38,Male,Salaried,Married,Graduate,2,Yes,No,Yes,60000,30900,90900,33000,Sedan
+38,Female,Salaried,Married,Graduate,1,Yes,Yes,Yes,57800,28900,86700,33000,Sedan
+38,Male,Business,Married,Post Graduate,1,Yes,No,No,83400,0,83400,34000,Sedan
+38,Male,Salaried,Married,Post Graduate,2,Yes,No,No,82100,0,82100,42000,Sedan
+38,Male,Salaried,Single,Post Graduate,1,No,No,No,76100,0,76100,45000,Sedan
+38,Female,Salaried,Married,Post Graduate,2,No,No,No,74000,0,74000,45000,SUV
+38,Male,Business,Married,Post Graduate,3,No,No,No,73900,0,73900,60000,SUV
+38,Female,Business,Married,Post Graduate,4,No,No,No,70700,0,70700,63000,SUV
+38,Male,Salaried,Married,Graduate,1,Yes,No,No,65800,0,65800,32000,Sedan
+38,Male,Business,Married,Graduate,2,Yes,Yes,No,65200,0,65200,31000,Sedan
+38,Female,Salaried,Married,Graduate,1,Yes,Yes,No,63900,0,63900,46000,Sedan
+38,Female,Salaried,Married,Graduate,2,Yes,No,No,62800,0,62800,47000,Sedan
+38,Male,Salaried,Married,Graduate,2,No,No,No,61000,0,61000,39000,Sedan
+38,Male,Salaried,Married,Graduate,1,Yes,No,No,54700,0,54700,52000,Sedan
+38,Male,Salaried,Married,Graduate,1,Yes,No,No,53300,0,53300,47000,Sedan
+38,Female,Salaried,Married,Graduate,3,Yes,No,No,50400,0,50400,51000,SUV
+38,Male,Business,Single,Graduate,1,No,No,No,50100,0,50100,42000,Sedan
+37,Female,Business,Married,Post Graduate,2,No,No,Yes,84200,40500,124700,39000,SUV
+37,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,84300,40500,124800,38000,Sedan
+37,Male,Business,Married,Graduate,4,No,No,Yes,53100,70600,123700,63000,SUV
+37,Female,Business,Married,Post Graduate,1,No,No,Yes,82000,40000,122000,37000,Sedan
+37,Male,Business,Married,Post Graduate,2,No,Yes,Yes,81600,40100,121700,49000,Sedan
+37,Female,Salaried,Married,Post Graduate,1,No,No,Yes,81200,40500,121700,36000,SUV
+37,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,80600,40500,121100,43000,Sedan
+37,Male,Business,Married,Post Graduate,1,Yes,No,Yes,81200,38500,119700,48000,Sedan
+37,Male,Salaried,Married,Post Graduate,2,No,No,Yes,80700,38000,118700,44000,Sedan
+37,Male,Salaried,Married,Post Graduate,1,Yes,Yes,Yes,77700,38700,116400,49000,Sedan
+37,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,70700,40600,111300,36000,Sedan
+37,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,82600,27200,109800,48000,SUV
+37,Male,Salaried,Married,Graduate,1,No,Yes,Yes,62100,45900,108000,36000,Sedan
+37,Male,Salaried,Married,Post Graduate,1,No,No,Yes,76400,30700,107100,33000,Sedan
+37,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,65700,38500,104200,50000,Sedan
+37,Female,Business,Married,Graduate,1,No,Yes,Yes,60600,40500,101100,55000,Sedan
+37,Female,Salaried,Married,Graduate,2,Yes,Yes,Yes,62000,,100700,46000,Sedan
+37,Female,Salaried,Married,Graduate,1,No,Yes,Yes,55400,40700,96100,47000,Sedan
+37,Female,Salaried,Married,Graduate,1,Yes,No,Yes,55000,40200,95200,43000,Sedan
+37,Female,Business,Married,Post Graduate,1,No,No,No,76300,0,76300,47000,Sedan
+37,Male,Salaried,Married,Post Graduate,1,No,No,No,74500,,74500,49000,Sedan
+37,Female,Business,Married,Post Graduate,4,No,No,No,73300,0,73300,66000,SUV
+37,Male,Salaried,Married,Post Graduate,3,Yes,No,No,73700,0,73700,50000,SUV
+37,Male,Salaried,Married,Post Graduate,2,No,Yes,No,72600,,72600,33000,Sedan
+37,Male,Salaried,Married,Post Graduate,2,No,No,No,67000,0,67000,69000,SUV
+37,Female,Salaried,Married,Post Graduate,2,Yes,No,No,66600,,66600,68000,SUV
+37,Male,Business,Married,Graduate,1,No,Yes,No,65100,0,65100,47000,Sedan
+37,Female,Salaried,Single,Graduate,2,Yes,No,No,61000,0,61000,55000,Sedan
+37,Female,Salaried,Married,Graduate,1,No,Yes,No,61600,0,61600,33000,Sedan
+37,Female,Salaried,Married,Graduate,2,No,No,No,51300,0,51300,58000,SUV
+37,Male,Salaried,Married,Graduate,3,No,No,No,49900,0,49900,51000,SUV
+36,Male,Salaried,Married,Post Graduate,2,No,No,Yes,82100,38100,120200,40000,Sedan
+36,Male,Business,Married,Post Graduate,2,Yes,No,Yes,79900,38900,118800,55000,Sedan
+36,Male,Salaried,Married,Post Graduate,1,No,Yes,Yes,76300,40200,116500,50000,Sedan
+36,Male,Business,Married,Graduate,2,No,No,Yes,53800,60000,113800,56000,SUV
+36,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,72300,40700,113000,65000,SUV
+36,Male,Business,Married,Post Graduate,2,No,No,Yes,72300,,112400,48000,Sedan
+36,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,73000,38300,111300,50000,Sedan
+36,Male,Business,Married,Post Graduate,1,Yes,No,Yes,84100,25300,109400,47000,Sedan
+36,Male,Salaried,Married,Post Graduate,4,No,No,Yes,66900,40200,107100,69000,SUV
+36,Male,Salaried,Married,Graduate,2,No,No,Yes,61200,40400,101600,36000,Sedan
+36,Female,Salaried,Married,Graduate,2,Yes,Yes,Yes,62900,38300,101200,53000,Sedan
+36,Male,Business,Married,Post Graduate,2,No,Yes,Yes,70300,28900,99200,36000,Sedan
+36,Female,Business,Married,Graduate,2,No,No,Yes,59300,35600,94900,48000,Sedan
+36,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,70700,24500,95200,39000,Sedan
+36,Male,Salaried,Married,Graduate,2,No,Yes,Yes,51200,40000,91200,35000,Sedan
+36,Male,Salaried,Married,Graduate,2,Yes,No,Yes,47000,40400,87400,61000,SUV
+36,Female,Business,Married,Post Graduate,2,Yes,No,No,85800,0,85800,42000,Sedan
+36,Male,Salaried,Single,Post Graduate,2,Yes,No,No,79200,0,79200,47000,Sedan
+36,Male,Salaried,Married,Graduate,1,No,Yes,Yes,52500,26800,79300,54000,Sedan
+36,Male,Salaried,Single,Post Graduate,2,No,No,No,78300,0,78300,51000,Sedan
+36,Female,Salaried,Single,Post Graduate,2,Yes,Yes,No,77100,0,77100,32000,Sedan
+36,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,75200,0,75200,44000,Sedan
+36,Female,Business,Married,Post Graduate,3,Yes,No,No,69900,0,69900,57000,SUV
+36,Female,Salaried,Single,Post Graduate,0,No,No,No,67500,0,67500,55000,SUV
+36,,Salaried,Married,Post Graduate,3,Yes,No,No,66600,0,66600,49000,SUV
+36,Female,Salaried,Married,Graduate,1,No,No,No,62900,0,62900,52000,SUV
+36,Female,Salaried,Married,Graduate,1,Yes,Yes,No,59700,,59700,44000,Sedan
+36,Female,Salaried,Married,Graduate,1,Yes,No,No,58900,0,58900,53000,Sedan
+36,Female,Salaried,Married,Graduate,1,No,No,No,57200,0,57200,48000,Sedan
+36,Male,Salaried,Married,Graduate,1,No,No,No,56600,0,56600,50000,Sedan
+36,Female,Salaried,Married,Graduate,1,No,No,No,55400,0,55400,36000,SUV
+36,Male,Business,Married,Graduate,2,Yes,Yes,No,55700,0,55700,34000,Sedan
+36,Male,Salaried,Married,Graduate,3,No,No,No,54900,0,54900,58000,SUV
+36,Male,Salaried,Married,Graduate,2,Yes,Yes,No,52100,0,52100,37000,Sedan
+36,Female,Salaried,Single,Graduate,2,Yes,No,No,47300,,47300,66000,SUV
+35,Female,Business,Married,Post Graduate,4,No,No,Yes,68000,70800,138800,64000,SUV
+35,Male,Salaried,Married,Graduate,3,No,No,Yes,53900,60600,114500,54000,SUV
+35,Male,Business,Married,Post Graduate,4,Yes,No,Yes,67600,40900,108500,70000,SUV
+35,Female,Business,Married,Post Graduate,2,No,No,Yes,65700,40400,106100,33000,Sedan
+35,Male,Business,Married,Post Graduate,1,Yes,No,Yes,64000,40800,104800,34000,Sedan
+35,Male,Business,Married,Post Graduate,2,No,No,Yes,64800,38900,103700,55000,Sedan
+35,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,69900,30900,100800,62000,SUV
+35,Male,Business,Married,Post Graduate,1,Yes,No,Yes,61400,38000,99400,45000,Sedan
+35,Female,Business,Married,Post Graduate,2,Yes,Yes,Yes,61100,38100,99200,43000,Sedan
+35,Female,Business,Married,Post Graduate,2,Yes,No,Yes,58900,38700,97600,51000,Sedan
+35,Male,Salaried,Married,Post Graduate,1,Yes,Yes,Yes,56300,40900,97200,34000,Sedan
+35,,Business,Married,Post Graduate,2,Yes,Yes,Yes,61600,25000,86600,31000,Sedan
+35,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,57700,38000,95700,50000,Sedan
+35,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,56000,38300,94300,43000,Sedan
+35,Male,Business,Married,Graduate,4,No,No,Yes,51000,40200,91200,63000,SUV
+35,Male,Salaried,Married,Post Graduate,2,No,No,Yes,59900,30900,90800,33000,Sedan
+35,Male,Business,Married,Post Graduate,2,No,Yes,Yes,62700,26800,89500,33000,Sedan
+35,Female,Salaried,Married,Post Graduate,2,No,No,Yes,56000,25200,81200,44000,Sedan
+35,Female,Business,Married,Graduate,4,No,No,Yes,53200,25800,79000,66000,SUV
+35,Male,Salaried,Married,Graduate,4,No,No,Yes,50500,26300,76800,66000,SUV
+35,Male,Business,Married,Post Graduate,3,No,No,No,74100,0,74100,68000,SUV
+35,Male,Business,Married,Graduate,1,No,No,Yes,35300,38100,73400,48000,Sedan
+35,Male,Salaried,Married,Post Graduate,3,No,No,No,71400,0,71400,63000,SUV
+35,Male,Business,Married,Post Graduate,2,Yes,No,No,70900,0,70900,59000,SUV
+35,Female,Salaried,Married,Post Graduate,1,No,No,No,65600,,65600,34000,Sedan
+35,Male,Salaried,Married,Post Graduate,2,Yes,No,No,63400,0,63400,47000,Sedan
+35,Female,Business,Married,Post Graduate,1,No,No,No,63700,0,63700,37000,Sedan
+35,Female,Salaried,Married,Graduate,2,Yes,No,Yes,36300,27700,64000,33000,Sedan
+35,Male,Business,Married,Post Graduate,1,Yes,No,No,62200,,62200,36000,Sedan
+35,Female,Salaried,Married,Post Graduate,1,Yes,Yes,No,60100,0,60100,31000,SUV
+35,Male,Salaried,Married,Post Graduate,2,No,No,No,59000,0,59000,50000,Sedan
+35,Male,Salaried,Married,Post Graduate,1,No,Yes,No,58700,0,58700,51000,Sedan
+35,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,57100,0,57100,52000,Sedan
+35,Female,Salaried,Married,Post Graduate,1,Yes,No,No,57000,0,57000,40000,SUV
+35,Female,Salaried,Married,Graduate,3,Yes,No,No,53400,0,53400,51000,SUV
+35,Male,Salaried,Married,Graduate,4,Yes,No,No,51800,,51800,69000,SUV
+35,Female,Salaried,Married,Graduate,2,Yes,No,No,50400,0,50400,57000,SUV
+35,Male,Salaried,Married,Graduate,3,No,No,No,48200,0,48200,58000,SUV
+35,Male,Salaried,Married,Graduate,2,Yes,Yes,No,42200,0,42200,41000,Sedan
+35,Male,Salaried,Married,Graduate,2,Yes,Yes,No,40200,0,40200,35000,Sedan
+35,Male,Business,Married,Graduate,2,Yes,Yes,No,38800,0,38800,48000,Sedan
+34,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,63600,38700,102300,53000,Sedan
+34,Female,Business,Married,Post Graduate,1,No,Yes,Yes,63200,38200,101400,46000,Sedan
+34,Male,Business,Married,Post Graduate,1,No,No,Yes,62600,38300,100900,43000,Sedan
+34,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,61300,38900,100200,45000,SUV
+34,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,61100,38300,99400,43000,Sedan
+34,Male,Salaried,Married,Post Graduate,2,No,No,Yes,59500,40900,100400,39000,Sedan
+34,Female,Business,Married,Post Graduate,2,No,Yes,Yes,59100,40100,99200,38000,Sedan
+34,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,58900,40900,99800,43000,Sedan
+34,Male,Salaried,Married,Post Graduate,1,Yes,Yes,Yes,56700,38600,95300,48000,Sedan
+34,Female,Business,Married,Post Graduate,1,Yes,No,Yes,63800,25800,89600,45000,SUV
+34,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,55900,28100,84000,54000,Sedan
+34,Male,Business,Married,Graduate,1,No,No,Yes,36400,38300,74700,44000,Sedan
+34,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,64900,,64900,35000,Sedan
+34,,Salaried,Single,Post Graduate,2,No,Yes,No,64800,0,64800,32000,Sedan
+34,Female,Salaried,Married,Post Graduate,1,Yes,No,No,63200,0,63200,34000,Sedan
+34,Male,Salaried,Married,Post Graduate,2,No,No,No,62300,0,62300,35000,Sedan
+34,Female,Salaried,Married,Post Graduate,2,Yes,No,No,62300,0,62300,32000,Sedan
+34,Male,Business,Married,Post Graduate,2,Yes,Yes,No,61100,0,61100,54000,Sedan
+34,Male,Salaried,Married,Post Graduate,1,Yes,No,No,61300,,61300,43000,Sedan
+34,Male,Salaried,Married,Post Graduate,2,No,No,No,58400,0,58400,40000,Sedan
+34,Male,Business,Married,Post Graduate,2,Yes,Yes,No,58000,0,58000,33000,Sedan
+34,Female,Salaried,Married,Post Graduate,2,Yes,No,No,57900,0,57900,41000,Sedan
+34,Female,Business,Married,Graduate,2,No,Yes,No,43100,0,43100,42000,Sedan
+34,Male,Salaried,Married,Graduate,1,Yes,Yes,No,40800,0,40800,51000,Sedan
+33,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,64500,38100,102600,51000,SUV
+33,Male,Salaried,Married,Post Graduate,1,No,No,Yes,62200,40200,102400,37000,Sedan
+33,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,59800,40400,100200,37000,Sedan
+33,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,59200,38500,97700,43000,Sedan
+33,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,58500,38500,97000,45000,Sedan
+33,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,60200,35700,95900,37000,Sedan
+33,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,65700,27700,93400,52000,Sedan
+33,Male,Salaried,Married,Graduate,1,Yes,Yes,Yes,45100,40300,85400,41000,Sedan
+33,Female,Business,Married,Graduate,2,Yes,No,Yes,43400,40200,83600,50000,Sedan
+33,Female,Salaried,Married,Graduate,1,No,No,Yes,44200,38700,82900,47000,Sedan
+33,Female,Salaried,Married,Graduate,2,Yes,No,Yes,42700,38600,81300,50000,SUV
+33,Female,Business,Married,Graduate,2,Yes,No,Yes,41700,38700,80400,51000,SUV
+33,Male,Salaried,Married,Graduate,2,Yes,No,Yes,41500,38400,79900,40000,Sedan
+33,Male,Business,Married,Graduate,2,Yes,Yes,Yes,39400,40500,79900,37000,Sedan
+33,Female,Salaried,Married,Graduate,2,Yes,No,Yes,39600,38200,77800,43000,Sedan
+33,Male,Salaried,Married,Graduate,2,No,No,Yes,41600,,70100,48000,Sedan
+33,Female,Business,Single,Post Graduate,2,No,No,No,65600,0,65600,46000,Sedan
+33,Female,Salaried,Married,Post Graduate,1,No,Yes,No,63800,,63800,32000,Sedan
+33,Male,Business,Married,Post Graduate,1,Yes,No,No,60300,0,60300,45000,Sedan
+33,Male,Business,Married,Post Graduate,2,No,No,No,59200,0,59200,52000,Sedan
+33,Female,Salaried,Married,Post Graduate,2,Yes,No,No,59200,0,59200,50000,Sedan
+33,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,59100,0,59100,49000,Sedan
+33,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,59800,0,59800,45000,Sedan
+33,Male,Salaried,Married,Post Graduate,1,No,No,No,59900,0,59900,35000,Sedan
+33,Male,Business,Married,Post Graduate,1,Yes,Yes,No,58000,0,58000,44000,Sedan
+33,Female,Business,Single,Post Graduate,2,Yes,No,No,56000,0,56000,32000,Sedan
+33,Male,Salaried,Married,Graduate,1,Yes,Yes,No,42700,0,42700,39000,Sedan
+33,Male,Business,Married,Graduate,2,Yes,No,No,41700,0,41700,41000,Sedan
+33,Female,Salaried,Married,Graduate,1,No,No,No,41500,,41500,33000,Sedan
+33,Male,Salaried,Married,Graduate,1,No,Yes,No,40700,0,40700,49000,Sedan
+33,Female,Salaried,Married,Graduate,1,No,No,No,39800,0,39800,42000,Sedan
+33,Female,Salaried,Married,Graduate,2,Yes,Yes,No,36800,0,36800,38000,Sedan
+33,,Salaried,Married,Graduate,1,Yes,No,No,36300,,36300,31000,Sedan
+32,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,64400,40400,104800,44000,Sedan
+32,Male,Business,Married,Post Graduate,1,No,No,Yes,62800,40700,103500,39000,Sedan
+32,Male,Business,Married,Post Graduate,1,No,Yes,Yes,61500,38900,100400,46000,Sedan
+32,Female,Business,Married,Post Graduate,2,Yes,Yes,Yes,59700,40500,100200,43000,Sedan
+32,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,56600,38500,95100,50000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,62900,30900,93800,33000,Sedan
+32,,Salaried,Married,Post Graduate,1,Yes,No,Yes,56000,40100,96100,31000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,61400,23800,85200,53000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,61400,23800,85200,37000,Sedan
+32,Male,Salaried,Married,Graduate,2,No,No,Yes,44300,40800,85100,35000,Sedan
+32,Male,Business,Married,Graduate,2,Yes,No,Yes,43000,40800,83800,52000,Sedan
+32,Female,Salaried,Married,Graduate,2,No,Yes,Yes,43800,40200,84000,47000,Sedan
+32,Female,Business,Married,Graduate,2,Yes,No,Yes,38900,40100,79000,50000,Sedan
+32,Male,Salaried,Married,Graduate,1,Yes,Yes,Yes,36700,40200,76900,36000,Sedan
+32,Male,Business,Married,Post Graduate,1,No,No,No,64300,0,64300,45000,Sedan
+32,Male,Salaried,Single,Post Graduate,1,No,Yes,No,63300,0,63300,43000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,No,Yes,No,62100,0,62100,44000,Sedan
+32,Male,Salaried,Married,Post Graduate,1,Yes,No,No,62500,0,62500,40000,Sedan
+32,Male,Salaried,Single,Post Graduate,2,No,Yes,No,62100,0,62100,34000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,No,Yes,No,61600,0,61600,39000,SUV
+32,Female,Business,Married,Post Graduate,2,No,Yes,No,61500,,61500,37000,Sedan
+32,Female,Salaried,Married,Post Graduate,1,Yes,No,No,60200,0,60200,48000,Sedan
+32,Female,Salaried,Married,Post Graduate,2,No,No,No,59100,0,59100,53000,Sedan
+32,Female,Salaried,Married,Post Graduate,1,No,Yes,No,57700,0,57700,40000,SUV
+32,Male,Salaried,Married,Post Graduate,1,No,No,No,56300,0,56300,52000,Sedan
+32,Female,Business,Married,Graduate,1,Yes,Yes,No,44700,0,44700,51000,Sedan
+32,Male,Business,Married,Graduate,1,No,No,No,43900,0,43900,53000,Sedan
+32,Female,Salaried,Married,Graduate,1,Yes,No,No,41600,0,41600,48000,Sedan
+32,Female,Salaried,Married,Graduate,2,Yes,No,No,37900,0,37900,49000,SUV
+32,Male,Business,Married,Graduate,1,No,No,No,36300,0,36300,41000,Sedan
+31,Male,Business,Married,Post Graduate,1,Yes,No,Yes,60900,40000,100900,32000,Sedan
+31,Male,Business,Married,Post Graduate,1,No,No,Yes,61400,38200,99600,51000,Sedan
+31,Female,Salaried,Married,Post Graduate,1,Yes,No,Yes,59800,40400,100200,45000,SUV
+31,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,58500,40900,99400,36000,Sedan
+31,Female,Business,Married,Post Graduate,1,Yes,Yes,Yes,57000,30800,87800,32000,SUV
+31,Male,Business,Married,Graduate,2,No,No,Yes,43900,40200,84100,36000,Sedan
+31,Male,Business,Married,Graduate,2,Yes,No,Yes,42700,38400,81100,49000,Sedan
+31,Male,Salaried,Married,Graduate,2,No,Yes,Yes,42600,38500,81100,48000,Sedan
+31,Female,Business,Married,Graduate,1,Yes,Yes,Yes,39900,38700,78600,51000,SUV
+31,Male,Business,Married,Graduate,1,Yes,Yes,Yes,37200,40000,77200,45000,Sedan
+31,Male,Business,Married,Graduate,2,Yes,No,Yes,36600,38200,74800,55000,Sedan
+31,Male,Salaried,Married,Post Graduate,1,No,Yes,No,65500,0,65500,46000,Sedan
+31,Male,Business,Married,Post Graduate,1,No,Yes,No,63000,0,63000,35000,Sedan
+31,Male,Business,Married,Post Graduate,1,No,No,No,60700,,60700,39000,Sedan
+31,Female,Salaried,Married,Post Graduate,1,No,Yes,No,60900,0,60900,35000,Sedan
+31,Male,Salaried,Married,Post Graduate,2,Yes,No,No,58300,0,58300,49000,Sedan
+31,Male,Salaried,Married,Post Graduate,1,Yes,No,No,58800,0,58800,31000,Sedan
+31,Female,Salaried,Married,Graduate,1,No,Yes,No,42200,0,42200,48000,SUV
+31,Female,Salaried,Married,Graduate,2,No,Yes,No,40300,,40300,37000,Sedan
+31,Male,Business,Married,Graduate,2,Yes,No,No,39400,0,39400,37000,Sedan
+31,Male,Business,Married,Graduate,1,No,No,No,38900,,38900,53000,Sedan
+30,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,80600,40400,121000,30000,Hatchback
+30,Male,Business,Married,Post Graduate,2,Yes,No,Yes,78500,40800,119300,31000,Sedan
+30,Male,Salaried,Married,Post Graduate,4,Yes,Yes,Yes,72900,45700,118600,31000,Hatchback
+30,Male,Business,Married,Post Graduate,3,No,Yes,Yes,74000,40000,114000,25000,Hatchback
+30,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,72400,40200,112600,22000,Hatchback
+30,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,77300,32700,110000,28000,Sedan
+30,Female,Salaried,Married,Post Graduate,3,No,No,Yes,78700,30600,109300,25000,Hatchback
+30,Male,Business,Married,Post Graduate,2,Yes,No,Yes,65600,40400,106000,34000,Sedan
+30,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,77300,28200,105500,33000,Hatchback
+30,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,65400,38900,104300,42000,Sedan
+30,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,63900,40800,104700,41000,Sedan
+30,Male,Salaried,Married,Post Graduate,1,Yes,No,Yes,58100,45600,103700,39000,Sedan
+30,Male,Salaried,Married,Post Graduate,2,No,No,Yes,75900,28000,103900,29000,Hatchback
+30,Male,Business,Married,Post Graduate,2,No,Yes,Yes,62700,40000,102700,53000,Sedan
+30,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,72300,30300,102600,23000,Hatchback
+30,Male,Business,Married,Post Graduate,3,No,Yes,Yes,62700,40900,103600,21000,Sedan
+30,Male,Salaried,Married,Post Graduate,1,No,Yes,Yes,63400,38200,101600,47000,Sedan
+30,Male,Salaried,Married,Post Graduate,2,No,No,Yes,61100,40600,101700,33000,Hatchback
+30,Male,Salaried,Married,Post Graduate,2,No,No,Yes,76300,600,76900,20000,Hatchback
+30,Male,Business,Married,Post Graduate,3,Yes,No,Yes,70300,30900,101200,24000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,No,Yes,69300,30900,100200,23000,Sedan
+30,Male,Salaried,Married,Post Graduate,4,Yes,Yes,Yes,66200,32600,98800,28000,Sedan
+30,Male,Business,Married,Post Graduate,2,No,No,Yes,68400,30200,98600,24000,Hatchback
+30,Female,Salaried,Married,Post Graduate,2,No,No,Yes,59200,38200,97400,48000,Sedan
+30,Male,Business,Married,Post Graduate,2,No,No,Yes,56600,40600,97200,38000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,66600,30000,96600,24000,Hatchback
+30,Male,Salaried,Married,Graduate,3,No,No,Yes,56800,40000,96800,23000,Sedan
+30,Male,Business,Married,Post Graduate,4,No,No,Yes,67900,28600,96500,32000,Hatchback
+30,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,64500,30100,94600,24000,Sedan
+30,Male,Business,Married,Post Graduate,3,No,Yes,Yes,65100,28500,93600,32000,Hatchback
+30,Male,Business,Married,Post Graduate,1,Yes,No,Yes,62300,600,62900,33000,Sedan
+30,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,64700,,93200,30000,Hatchback
+30,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,62600,30900,93500,28000,Hatchback
+30,Male,Business,Married,Post Graduate,2,Yes,Yes,Yes,67100,25100,92200,19000,Sedan
+30,Female,Salaried,Married,Post Graduate,2,No,Yes,Yes,65900,26700,92600,55000,Sedan
+30,Male,Business,Married,Post Graduate,4,No,Yes,Yes,62700,28000,90700,30000,Hatchback
+30,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,65300,25100,90400,21000,Sedan
+30,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,61900,28200,90100,29000,Hatchback
+30,,Business,Married,Post Graduate,4,No,No,Yes,67700,26600,94300,18000,Sedan
+30,Male,Salaried,Married,Post Graduate,2,No,No,Yes,63400,24200,87600,48000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,60200,700,60900,20000,Hatchback
+30,Male,Salaried,Married,Graduate,3,No,No,Yes,54300,30100,84400,25000,Hatchback
+30,Female,Salaried,Married,Graduate,2,Yes,Yes,Yes,43900,40700,84600,39000,Sedan
+30,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,53700,30600,84300,26000,Sedan
+30,Male,Business,Married,Graduate,3,No,No,Yes,57200,25900,83100,20000,Sedan
+30,Male,Salaried,Married,Graduate,2,No,No,Yes,41300,40100,81400,37000,Sedan
+30,Male,Business,Married,Graduate,2,No,No,Yes,41200,40800,82000,26000,Sedan
+30,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,51400,30000,81400,23000,Hatchback
+30,Male,Business,Single,Post Graduate,2,No,No,No,80100,0,80100,32000,Hatchback
+30,Male,Business,Married,Post Graduate,2,Yes,No,No,80900,0,80900,30000,Hatchback
+30,Male,Salaried,Married,Graduate,1,Yes,Yes,Yes,38900,40900,79800,51000,Sedan
+30,Female,Business,Married,Graduate,1,No,Yes,Yes,38200,38700,76900,53000,Sedan
+30,Male,Business,Married,Graduate,4,Yes,Yes,Yes,52700,24200,76900,29000,Sedan
+30,Male,Business,Married,Graduate,4,No,No,Yes,54400,22100,76500,29000,Hatchback
+30,Female,Business,Married,Graduate,2,Yes,Yes,Yes,37000,38800,75800,41000,Sedan
+30,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,45600,30300,75900,26000,Sedan
+30,Male,Salaried,Married,Graduate,3,No,Yes,Yes,50000,25400,75400,19000,Sedan
+30,Male,Salaried,Single,Post Graduate,2,Yes,Yes,No,74900,0,74900,31000,Hatchback
+30,Male,Salaried,Married,Post Graduate,3,Yes,No,No,73900,,73900,33000,Hatchback
+30,Male,Business,Married,Graduate,3,No,Yes,Yes,45000,28400,73400,29000,Hatchback
+30,Male,Salaried,Married,Post Graduate,3,No,No,No,73000,0,73000,23000,Sedan
+30,Male,Business,Married,Graduate,3,No,Yes,Yes,43600,30100,73700,22000,Hatchback
+30,Male,Business,Married,Post Graduate,3,No,Yes,No,73600,0,73600,20000,Hatchback
+30,Male,Business,Married,Graduate,3,Yes,Yes,Yes,45300,27800,73100,25000,Hatchback
+30,Male,Business,Married,Graduate,4,Yes,Yes,Yes,43800,28300,72100,30000,Hatchback
+30,Male,Business,Married,Post Graduate,3,Yes,No,No,71000,,71000,28000,Hatchback
+30,Male,Salaried,Single,Post Graduate,2,No,No,No,71600,0,71600,28000,Hatchback
+30,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,70800,0,70800,32000,Hatchback
+30,Male,Salaried,Married,Graduate,4,Yes,Yes,Yes,42200,28300,70500,30000,Hatchback
+30,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,70200,0,70200,28000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,Yes,No,No,70600,,70600,24000,Sedan
+30,Male,Business,Married,Graduate,3,No,No,Yes,45900,25500,71400,21000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,No,No,70400,0,70400,21000,Sedan
+30,Male,Business,Married,Post Graduate,2,Yes,Yes,No,70500,0,70500,20000,Hatchback
+30,Male,Salaried,Married,Post Graduate,4,No,Yes,No,69600,0,69600,32000,Hatchback
+30,Male,Business,Married,Graduate,3,No,No,Yes,44200,800,45000,20000,Hatchback
+30,,Business,Married,Graduate,2,No,No,Yes,42600,800,43400,18000,Sedan
+30,Male,Business,Married,Post Graduate,3,Yes,Yes,No,67700,0,67700,28000,Sedan
+30,Male,Business,Single,Post Graduate,0,Yes,No,No,67000,0,67000,22000,Hatchback
+30,Male,Business,Married,Post Graduate,3,No,No,No,67200,0,67200,20000,Sedan
+30,Male,Salaried,Married,Graduate,3,No,No,Yes,40100,26600,66700,31000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,Yes,No,65800,0,65800,32000,Hatchback
+30,Male,Business,Single,Post Graduate,2,No,No,No,65500,0,65500,30000,Hatchback
+30,Male,Business,Married,Post Graduate,3,Yes,No,No,65100,,65100,27000,Sedan
+30,Female,Salaried,Married,Post Graduate,3,No,No,No,65900,0,65900,25000,Hatchback
+30,Male,Salaried,Married,Post Graduate,3,Yes,No,No,65400,0,65400,23000,Sedan
+30,Male,Salaried,Married,Post Graduate,3,No,No,No,65500,0,65500,20000,Hatchback
+30,Male,Business,Single,Post Graduate,2,Yes,Yes,No,64900,0,64900,30000,Hatchback
+30,Female,Salaried,Married,Post Graduate,3,Yes,No,No,64500,0,64500,29000,Hatchback
+30,Male,Business,Single,Post Graduate,1,Yes,No,No,63600,0,63600,53000,Sedan
+30,Male,Salaried,Married,Graduate,1,Yes,No,Yes,36000,26800,62800,49000,Sedan
+30,Female,Business,Married,Post Graduate,1,Yes,No,No,62200,0,62200,31000,SUV
+30,Male,Salaried,Married,Post Graduate,3,No,Yes,No,62400,0,62400,18000,Sedan
+30,Male,Salaried,Married,Post Graduate,1,Yes,No,No,61800,0,61800,36000,Sedan
+30,Female,Salaried,Married,Post Graduate,2,No,No,No,61500,0,61500,34000,Sedan
+30,Male,Business,Married,Post Graduate,2,Yes,No,No,61300,0,61300,31000,Sedan
+30,Male,Business,Married,Graduate,2,Yes,No,Yes,35500,24000,59500,43000,Sedan
+30,Female,Salaried,Married,Graduate,2,No,Yes,No,58100,0,58100,32000,Hatchback
+30,Male,Business,Married,Graduate,3,No,Yes,No,57700,0,57700,27000,Sedan
+30,Male,Business,Married,Graduate,4,Yes,No,No,56500,0,56500,31000,Sedan
+30,Male,Business,Single,Graduate,2,Yes,No,No,56300,0,56300,23000,Hatchback
+30,Male,Salaried,Married,Graduate,2,No,Yes,No,54800,0,54800,31000,Sedan
+30,Male,Salaried,Married,Graduate,3,Yes,Yes,No,53200,0,53200,26000,Hatchback
+30,Female,Salaried,Married,Graduate,4,Yes,Yes,No,52700,0,52700,30000,Hatchback
+30,Male,Business,Married,Graduate,3,Yes,No,No,51300,0,51300,24000,Sedan
+30,Male,Business,Married,Graduate,3,Yes,No,No,49500,0,49500,23000,Sedan
+30,Male,Salaried,Single,Graduate,2,No,Yes,No,46000,0,46000,26000,Hatchback
+30,Female,Salaried,Married,Graduate,1,Yes,No,No,44800,0,44800,50000,Sedan
+30,Male,Salaried,Married,Graduate,2,Yes,No,No,43600,0,43600,33000,Hatchback
+30,Male,Business,Married,Graduate,1,No,No,No,42700,0,42700,33000,Sedan
+30,Male,Salaried,Married,Graduate,4,No,Yes,No,42300,0,42300,31000,Hatchback
+30,Male,Salaried,Married,Graduate,4,No,No,No,41900,0,41900,32000,Hatchback
+30,,Salaried,Married,Graduate,3,No,No,No,40300,0,40300,19000,Sedan
+30,Female,Salaried,Married,Graduate,1,Yes,Yes,No,38100,0,38100,51000,SUV
+30,Male,Salaried,Married,Graduate,2,Yes,No,No,38800,0,38800,37000,Sedan
+30,Male,Business,Married,Graduate,1,No,No,No,37100,0,37100,54000,Sedan
+30,Male,Salaried,Married,Graduate,2,No,Yes,No,37100,,37100,34000,Sedan
+29,Male,Business,Married,Post Graduate,2,No,No,Yes,79000,40600,119600,20000,Hatchback
+29,Male,Business,Married,Post Graduate,3,Yes,No,Yes,71500,40900,112400,25000,Hatchback
+29,Male,Business,Married,Post Graduate,2,Yes,No,Yes,76100,32400,108500,28000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,79700,28800,108500,32000,Hatchback
+29,Male,Salaried,Married,Post Graduate,4,No,No,Yes,78600,28600,107200,32000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,74900,32300,107200,29000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,76800,30600,107400,22000,Hatchback
+29,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,65000,40000,105000,23000,Sedan
+29,Male,Business,Married,Post Graduate,3,No,Yes,Yes,75200,30100,105300,22000,Hatchback
+29,Male,Business,Married,Post Graduate,2,No,Yes,Yes,64200,40900,105100,37000,Sedan
+29,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,64900,40800,105700,24000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,73800,30200,104000,31000,Sedan
+29,Female,Business,Married,Post Graduate,1,Yes,No,Yes,64700,38600,103300,53000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,No,No,Yes,70800,32900,103700,28000,Hatchback
+29,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,75400,27600,103000,25000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,77300,25500,102800,19000,Sedan
+29,,Business,Married,Post Graduate,3,No,Yes,Yes,75600,27900,103500,19000,Sedan
+29,Female,Business,Married,Post Graduate,2,No,No,Yes,63300,38300,101600,49000,SUV
+29,Male,Business,Married,Post Graduate,1,Yes,No,Yes,63600,38100,101700,46000,Sedan
+29,Female,Business,Married,Post Graduate,2,Yes,No,Yes,61800,40100,101900,36000,SUV
+29,Male,Salaried,Married,Post Graduate,4,No,No,Yes,66300,35500,101800,29000,Hatchback
+29,Male,Business,Married,Graduate,3,Yes,No,Yes,60700,40000,100700,30000,Hatchback
+29,Male,Business,Married,Post Graduate,2,Yes,No,Yes,61900,38800,100700,50000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,No,No,Yes,63700,35700,99400,42000,Sedan
+29,Female,Business,Married,Post Graduate,1,Yes,Yes,Yes,59800,38000,97800,52000,SUV
+29,Male,Salaried,Married,Post Graduate,4,No,No,Yes,65600,32600,98200,28000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,57000,38100,95100,47000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,64400,30300,94700,22000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,64100,30100,94200,22000,Hatchback
+29,Female,Business,Married,Post Graduate,2,Yes,No,Yes,55100,38700,93800,48000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,65500,28800,94300,33000,Hatchback
+29,Male,Business,Married,Post Graduate,2,No,No,Yes,61900,30700,92600,32000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,61600,30300,91900,22000,Hatchback
+29,Male,Salaried,Married,Graduate,4,Yes,Yes,Yes,58100,32400,90500,28000,Hatchback
+29,Male,Salaried,Married,Graduate,2,Yes,No,Yes,58000,32300,90300,28000,Sedan
+29,Male,Business,Married,Graduate,3,No,No,Yes,50900,40000,90900,23000,Sedan
+29,Male,Business,Married,Post Graduate,2,No,No,Yes,60900,30800,91700,22000,Sedan
+29,Male,Salaried,Married,Graduate,4,Yes,No,Yes,56500,32900,89400,29000,Hatchback
+29,Male,Business,Married,Graduate,4,Yes,No,Yes,56400,32400,88800,27000,Sedan
+29,Male,Salaried,Married,Graduate,3,No,Yes,Yes,59000,,87700,29000,Hatchback
+29,Male,Salaried,Married,Graduate,4,No,No,Yes,52600,35100,87700,28000,Hatchback
+29,Male,Salaried,Married,Graduate,4,No,No,Yes,47600,40200,87800,27000,Sedan
+29,Male,Business,Married,Graduate,3,Yes,No,Yes,47100,40400,87500,26000,Sedan
+29,Male,Business,Married,Graduate,2,No,Yes,Yes,59900,27900,87800,32000,Hatchback
+29,Male,Business,Married,Post Graduate,3,No,No,Yes,61800,25000,86800,18000,Sedan
+29,Male,Business,Married,Graduate,4,Yes,Yes,Yes,45900,40600,86500,32000,Hatchback
+29,Male,Business,Married,Graduate,3,Yes,No,Yes,40000,45600,85600,22000,Hatchback
+29,Male,Business,Married,Post Graduate,2,Yes,No,Yes,60700,25500,86200,20000,Hatchback
+29,Female,Business,Married,Graduate,2,No,No,Yes,42400,40700,83100,46000,Sedan
+29,Male,Business,Married,Graduate,3,No,No,Yes,56700,25000,81700,20000,Sedan
+29,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,52000,28400,80400,33000,Hatchback
+29,Male,Salaried,Married,Graduate,2,No,Yes,Yes,55100,900,56000,20000,Hatchback
+29,Male,Business,Single,Post Graduate,2,Yes,No,No,79100,0,79100,32000,Hatchback
+29,Male,Business,Married,Graduate,2,No,No,Yes,53200,26600,79800,30000,Hatchback
+29,Male,Business,Single,Post Graduate,2,No,Yes,No,78700,0,78700,32000,Hatchback
+29,Male,Business,Married,Post Graduate,2,Yes,Yes,No,78700,0,78700,21000,Sedan
+29,Male,Salaried,Married,Graduate,3,No,Yes,Yes,52800,25400,78200,20000,Hatchback
+29,Male,Business,Married,Post Graduate,2,Yes,Yes,No,77700,0,77700,20000,Sedan
+29,,Salaried,Married,Post Graduate,4,No,No,No,76900,0,76900,18000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,Yes,No,No,75600,0,75600,23000,Sedan
+29,Male,Salaried,Married,Graduate,3,No,No,Yes,44300,30300,74600,26000,Sedan
+29,Male,Business,Married,Post Graduate,3,Yes,Yes,No,73400,0,73400,29000,Hatchback
+29,Male,Business,Married,Post Graduate,3,No,No,No,73800,0,73800,28000,Hatchback
+29,Male,Business,Single,Post Graduate,2,No,No,No,73100,,73100,23000,Hatchback
+29,Male,Business,Married,Graduate,3,Yes,No,Yes,46900,400,47300,20000,Hatchback
+29,Male,Business,Married,Post Graduate,3,Yes,No,No,73400,0,73400,20000,Sedan
+29,,Business,Married,Post Graduate,3,Yes,Yes,No,73000,0,73000,19000,Sedan
+29,Male,Business,Married,Post Graduate,3,No,No,No,72300,0,72300,33000,Hatchback
+29,Male,Business,Married,Graduate,3,Yes,Yes,Yes,49800,23500,73300,20000,Sedan
+29,Male,Business,Married,Post Graduate,2,No,No,No,69300,0,69300,20000,Sedan
+29,Male,Business,Married,Post Graduate,3,Yes,No,No,68200,0,68200,26000,Sedan
+29,Male,Salaried,Married,Graduate,3,Yes,No,Yes,42700,25300,68000,21000,Sedan
+29,Male,Salaried,Single,Post Graduate,2,No,Yes,No,66700,0,66700,24000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,Yes,No,No,66900,0,66900,23000,Hatchback
+29,Male,Business,Single,Post Graduate,2,Yes,No,No,66400,0,66400,20000,Hatchback
+29,Male,Business,Married,Post Graduate,4,No,No,No,65800,0,65800,33000,Hatchback
+29,Male,Salaried,Married,Post Graduate,4,No,Yes,No,65100,0,65100,32000,Hatchback
+29,Male,Salaried,Married,Post Graduate,3,No,Yes,No,65600,0,65600,20000,Sedan
+29,Male,Salaried,Married,Post Graduate,1,No,No,No,64900,0,64900,40000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,Yes,No,No,64200,0,64200,39000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,64900,0,64900,35000,Sedan
+29,Male,Business,Married,Post Graduate,3,Yes,Yes,No,64400,0,64400,32000,Hatchback
+29,Male,Salaried,Married,Post Graduate,1,Yes,Yes,No,63100,0,63100,50000,Sedan
+29,Male,Business,Married,Post Graduate,2,Yes,Yes,No,63800,0,63800,32000,Hatchback
+29,Male,Salaried,Married,Post Graduate,4,No,Yes,No,63000,0,63000,31000,Sedan
+29,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,63500,0,63500,22000,Hatchback
+29,Male,Salaried,Single,Post Graduate,0,Yes,Yes,No,62300,,62300,20000,Hatchback
+29,Male,Salaried,Married,Post Graduate,2,Yes,No,No,61200,0,61200,43000,Sedan
+29,Female,Business,Married,Post Graduate,1,Yes,No,No,60800,0,60800,32000,SUV
+29,Female,Salaried,Single,Post Graduate,2,No,No,No,58200,,58200,43000,Sedan
+29,Female,Salaried,Married,Post Graduate,1,No,No,No,57700,,57700,38000,Sedan
+29,Female,Business,Married,Post Graduate,1,No,Yes,No,57600,0,57600,34000,Sedan
+29,,Salaried,Married,Graduate,3,No,No,No,57900,0,57900,18000,Sedan
+29,Male,Salaried,Married,Post Graduate,2,No,Yes,No,56000,0,56000,45000,Sedan
+29,Male,Business,Single,Post Graduate,2,Yes,No,No,56600,0,56600,40000,Sedan
+29,Male,Business,Single,Graduate,2,Yes,No,No,56100,0,56100,28000,Hatchback
+29,Male,Business,Single,Graduate,2,Yes,No,No,54500,0,54500,22000,Hatchback
+29,Male,Business,Married,Graduate,4,No,No,No,51800,0,51800,31000,Hatchback
+29,Male,Business,Married,Graduate,3,No,Yes,No,51400,0,51400,24000,Sedan
+29,Male,Business,Married,Graduate,3,No,No,No,50900,,50900,26000,Hatchback
+29,Male,Salaried,Married,Graduate,3,Yes,Yes,No,49400,,49400,24000,Sedan
+29,Male,Business,Married,Graduate,3,Yes,Yes,No,43700,0,43700,26000,Sedan
+29,Male,Business,Married,Graduate,2,No,Yes,No,42500,,42500,29000,Hatchback
+29,Male,Business,Married,Graduate,3,No,Yes,No,42600,0,42600,25000,Hatchback
+29,Male,Salaried,Married,Graduate,1,Yes,No,No,41600,0,41600,48000,Sedan
+29,Female,Salaried,Married,Graduate,1,No,Yes,No,39100,0,39100,51000,SUV
+29,Male,Salaried,Married,Graduate,1,No,No,No,39500,,39500,51000,Sedan
+29,Female,Business,Married,Graduate,1,No,Yes,No,39900,0,39900,32000,Sedan
+29,Male,Business,Married,Graduate,2,Yes,No,No,37100,0,37100,44000,Sedan
+29,Female,Salaried,Single,Graduate,2,No,Yes,No,37100,0,37100,31000,Sedan
+28,Male,Business,Married,Post Graduate,4,No,Yes,Yes,69200,45400,114600,30000,Hatchback
+28,Male,Business,Married,Post Graduate,4,No,Yes,Yes,72500,40300,112800,32000,Hatchback
+28,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,71800,800,72600,20000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,74700,35100,109800,33000,Hatchback
+28,Male,Business,Married,Post Graduate,2,No,No,Yes,78400,30300,108700,23000,Sedan
+28,Male,Salaried,Married,Post Graduate,2,No,No,Yes,79700,28700,108400,32000,Hatchback
+28,Male,Business,Married,Post Graduate,4,No,No,Yes,79900,28400,108300,29000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,67000,40200,107200,24000,Sedan
+28,Male,Business,Married,Post Graduate,4,No,Yes,Yes,65800,40100,105900,32000,Hatchback
+28,Male,Business,Married,Post Graduate,3,No,No,Yes,65000,40400,105400,29000,Sedan
+28,Male,Business,Married,Post Graduate,2,No,No,Yes,64500,40000,104500,42000,Sedan
+28,Female,Salaried,Married,Post Graduate,1,No,Yes,Yes,64800,40900,105700,39000,Sedan
+28,Male,Salaried,Married,Post Graduate,2,No,No,Yes,72200,32800,105000,28000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,64800,40500,105300,25000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,75800,28500,104300,33000,Hatchback
+28,Male,Business,Married,Post Graduate,4,No,No,Yes,80900,23700,104600,27000,Sedan
+28,Male,Salaried,Married,Post Graduate,1,No,No,Yes,61600,40500,102100,39000,Sedan
+28,Male,Business,Married,Post Graduate,2,No,No,Yes,69000,32500,101500,27000,Hatchback
+28,Male,Business,Married,Post Graduate,2,Yes,No,Yes,62300,38800,101100,52000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,No,No,Yes,71000,28900,99900,32000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,69300,30100,99400,27000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,No,No,Yes,70900,28900,99800,29000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,No,Yes,68500,30900,99400,24000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,63600,35300,98900,21000,Sedan
+28,Male,Business,Married,Graduate,3,Yes,Yes,Yes,53400,45800,99200,21000,Sedan
+28,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,69000,28100,97100,30000,Hatchback
+28,Male,Salaried,Married,Graduate,4,No,Yes,Yes,55300,40000,95300,28000,Hatchback
+28,Male,Business,Married,Post Graduate,4,No,Yes,Yes,63900,32400,96300,28000,Sedan
+28,Male,Salaried,Married,Graduate,4,No,Yes,Yes,54900,40000,94900,33000,Hatchback
+28,Male,Salaried,Married,Post Graduate,2,No,No,Yes,66000,28100,94100,32000,Hatchback
+28,Male,Business,Married,Post Graduate,3,No,No,Yes,63400,30300,93700,24000,Sedan
+28,Male,Business,Married,Post Graduate,2,No,No,Yes,63100,30100,93200,23000,Sedan
+28,Male,Business,Married,Post Graduate,3,Yes,No,Yes,62800,30700,93500,26000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,No,No,Yes,61800,30700,92500,26000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,64700,27900,92600,24000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,62500,28300,90800,31000,Sedan
+28,Male,Business,Married,Post Graduate,4,No,No,Yes,62700,27300,90000,31000,Sedan
+28,,Business,Married,Graduate,4,Yes,No,Yes,48600,30200,78800,18000,Sedan
+28,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,65500,22900,88400,23000,Sedan
+28,,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,62200,25200,87400,19000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,No,No,Yes,61500,25800,87300,20000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,60400,25500,85900,18000,Sedan
+28,Male,Salaried,Married,Graduate,4,Yes,No,Yes,56300,28900,85200,31000,Hatchback
+28,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,44800,40300,85100,26000,Hatchback
+28,Male,Business,Married,Graduate,4,Yes,Yes,Yes,43600,40400,84000,32000,Hatchback
+28,Male,Salaried,Married,Graduate,3,No,Yes,Yes,53700,30000,83700,24000,Hatchback
+28,Male,Business,Married,Graduate,3,Yes,Yes,Yes,59700,24000,83700,19000,Hatchback
+28,Male,Salaried,Married,Graduate,2,Yes,No,Yes,58300,24200,82500,27000,Hatchback
+28,Female,Salaried,Married,Graduate,1,No,No,Yes,43300,38500,81800,52000,Sedan
+28,Male,Salaried,Married,Graduate,4,No,Yes,Yes,41000,40800,81800,33000,Hatchback
+28,Male,Salaried,Married,Graduate,2,No,No,Yes,50700,30800,81500,26000,Hatchback
+28,Male,Business,Married,Post Graduate,3,No,No,No,80400,0,80400,20000,Sedan
+28,Male,Business,Married,Graduate,3,Yes,Yes,Yes,49900,30800,80700,24000,Hatchback
+28,Male,Salaried,Married,Graduate,3,No,Yes,Yes,54900,25000,79900,21000,Sedan
+28,Male,Salaried,Married,Graduate,2,Yes,No,Yes,54900,25000,79900,20000,Hatchback
+28,Male,Business,Married,Graduate,4,No,Yes,Yes,50700,28000,78700,32000,Hatchback
+28,Male,Salaried,Married,Graduate,4,Yes,Yes,Yes,50100,28000,78100,30000,Hatchback
+28,Male,Salaried,Married,Graduate,3,Yes,No,Yes,48400,30300,78700,22000,Hatchback
+28,Male,Business,Married,Graduate,2,No,No,Yes,53200,25400,78600,20000,Sedan
+28,Female,Salaried,Married,Graduate,1,No,Yes,Yes,37000,40800,77800,35000,Sedan
+28,Male,Business,Married,Post Graduate,1,Yes,Yes,No,76800,0,76800,30000,Hatchback
+28,Male,Business,Married,Post Graduate,2,Yes,No,No,76200,0,76200,25000,Hatchback
+28,Male,Business,Single,Post Graduate,0,Yes,Yes,No,76600,0,76600,20000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,No,No,No,75200,0,75200,29000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,No,Yes,No,74000,0,74000,21000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,No,No,No,73900,0,73900,29000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,73000,0,73000,22000,Hatchback
+28,Male,Salaried,Married,Post Graduate,2,Yes,No,No,72700,0,72700,33000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,No,No,72900,0,72900,32000,Hatchback
+28,Male,Business,Married,Post Graduate,2,Yes,No,No,72700,,72700,28000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,Yes,No,72800,0,72800,25000,Hatchback
+28,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,43700,29800,73500,21000,Sedan
+28,Male,Business,Married,Post Graduate,3,No,No,No,72200,0,72200,21000,Sedan
+28,,Business,Married,Graduate,3,Yes,No,Yes,47100,24200,71300,19000,Sedan
+28,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,40100,30800,70900,23000,Hatchback
+28,Male,Salaried,Married,Graduate,2,Yes,No,Yes,45500,25400,70900,20000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,No,Yes,No,69700,0,69700,28000,Hatchback
+28,Male,Business,Married,Post Graduate,2,No,Yes,No,69900,0,69900,21000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,No,Yes,No,69300,0,69300,19000,Sedan
+28,Male,Business,Married,Post Graduate,3,No,No,No,68200,0,68200,21000,Sedan
+28,Male,Business,Married,Graduate,3,Yes,No,Yes,43000,25500,68500,19000,Sedan
+28,,Salaried,Married,Post Graduate,3,No,Yes,No,68600,0,68600,18000,Sedan
+28,,Business,Married,Graduate,2,Yes,No,Yes,43200,25800,69000,18000,Sedan
+28,Female,Salaried,Married,Graduate,1,No,No,Yes,37800,30400,68200,34000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,Yes,No,No,67500,0,67500,29000,Sedan
+28,Male,Salaried,Married,Post Graduate,4,No,No,No,66100,0,66100,31000,Hatchback
+28,Male,Business,Single,Post Graduate,0,No,Yes,No,66300,,66300,22000,Hatchback
+28,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,65400,0,65400,31000,Sedan
+28,Male,Business,Married,Post Graduate,2,No,Yes,No,65500,0,65500,31000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,65500,0,65500,30000,Hatchback
+28,Male,Business,Married,Post Graduate,2,Yes,Yes,No,65200,0,65200,24000,Sedan
+28,Male,Salaried,Married,Graduate,3,No,No,Yes,40900,25900,66800,22000,Hatchback
+28,Female,Salaried,Married,Post Graduate,2,Yes,Yes,No,64000,0,64000,51000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,64400,0,64400,24000,Hatchback
+28,,Business,Married,Post Graduate,4,Yes,No,No,64100,0,64100,18000,Sedan
+28,Female,Salaried,Married,Graduate,1,Yes,No,Yes,36000,800,36800,31000,SUV
+28,Male,Salaried,Married,Post Graduate,4,No,Yes,No,63800,0,63800,30000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,No,No,63200,0,63200,30000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,No,Yes,No,62000,0,62000,20000,Hatchback
+28,Male,Salaried,Married,Post Graduate,1,No,No,No,61200,0,61200,38000,Sedan
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,61700,0,61700,26000,Hatchback
+28,Male,Business,Married,Post Graduate,3,Yes,No,No,61600,0,61600,24000,Hatchback
+28,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,61900,0,61900,23000,Sedan
+28,Male,Business,Single,Post Graduate,2,No,No,No,60700,0,60700,41000,Sedan
+28,Female,Salaried,Married,Post Graduate,2,Yes,No,No,60400,0,60400,31000,SUV
+28,Male,Salaried,Married,Post Graduate,1,No,No,No,59100,0,59100,36000,Sedan
+28,Male,Business,Married,Graduate,4,Yes,Yes,No,59500,0,59500,31000,Hatchback
+28,Male,Salaried,Married,Graduate,3,Yes,No,No,59800,0,59800,28000,Sedan
+28,Male,Salaried,Married,Graduate,3,No,Yes,No,58400,0,58400,20000,Hatchback
+28,Male,Salaried,Single,Post Graduate,2,Yes,No,No,57700,0,57700,35000,Sedan
+28,Male,Salaried,Married,Graduate,3,No,No,No,57200,0,57200,25000,Hatchback
+28,Male,Business,Single,Post Graduate,2,No,No,No,56000,0,56000,43000,Sedan
+28,Male,Business,Married,Graduate,1,Yes,No,No,56600,0,56600,19000,Hatchback
+28,Male,Salaried,Married,Graduate,3,Yes,No,No,54700,0,54700,23000,Sedan
+28,Male,Salaried,Married,Graduate,3,No,No,No,46900,0,46900,24000,Hatchback
+28,Male,Business,Single,Graduate,2,Yes,Yes,No,43500,,43500,27000,Hatchback
+28,Female,Salaried,Married,Graduate,2,No,Yes,No,42000,,42000,39000,Sedan
+28,Male,Salaried,Married,Graduate,3,No,Yes,No,41400,0,41400,24000,Hatchback
+28,Male,Business,Married,Graduate,2,Yes,Yes,No,40800,0,40800,52000,Sedan
+27,Male,Business,Married,Post Graduate,3,No,No,Yes,71000,40600,111600,27000,Sedan
+27,,Salaried,Married,Post Graduate,3,No,No,Yes,76300,30900,107200,18000,Sedan
+27,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,69400,40200,109600,26000,Hatchback
+27,Male,Business,Married,Post Graduate,2,No,No,Yes,68200,40200,108400,31000,Sedan
+27,Male,Business,Married,Post Graduate,2,No,No,Yes,79600,28900,108500,32000,Hatchback
+27,Male,Business,Married,Post Graduate,4,No,Yes,Yes,73500,32400,105900,28000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,74600,30100,104700,23000,Sedan
+27,Male,Salaried,Married,Post Graduate,4,No,No,Yes,71500,32600,104100,27000,Sedan
+27,Male,Business,Married,Post Graduate,3,Yes,No,Yes,73500,30800,104300,23000,Hatchback
+27,,Business,Married,Post Graduate,3,No,No,Yes,63000,40500,103500,18000,Sedan
+27,,Salaried,Married,Post Graduate,3,No,No,Yes,77700,25100,102800,19000,Sedan
+27,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,61300,40500,101800,30000,Hatchback
+27,Male,Business,Married,Post Graduate,4,Yes,No,Yes,66800,35400,102200,29000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,61100,40300,101400,22000,Hatchback
+27,Male,Business,Married,Post Graduate,3,No,No,Yes,72200,28900,101100,30000,Hatchback
+27,Male,Business,Married,Post Graduate,4,No,Yes,Yes,68000,32400,100400,28000,Hatchback
+27,Male,Business,Married,Post Graduate,3,No,No,Yes,70700,30000,100700,22000,Hatchback
+27,,Business,Married,Post Graduate,3,Yes,No,Yes,65800,28700,94500,18000,Sedan
+27,Male,Business,Married,Post Graduate,2,No,Yes,Yes,71700,28600,100300,32000,Hatchback
+27,Male,Business,Married,Graduate,3,No,No,Yes,59200,40600,99800,26000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,74200,25300,99500,18000,Sedan
+27,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,69000,28000,97000,31000,Sedan
+27,Male,Business,Married,Post Graduate,3,No,Yes,Yes,65500,32600,98100,28000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,72400,25100,97500,19000,Hatchback
+27,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,72700,24300,97000,30000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,No,Yes,56200,40900,97100,19000,Hatchback
+27,,Salaried,Married,Post Graduate,3,Yes,No,Yes,71700,25400,97100,18000,Sedan
+27,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,65600,30300,95900,24000,Hatchback
+27,Male,Business,Married,Post Graduate,4,Yes,No,Yes,66600,28200,94800,31000,Sedan
+27,Female,Salaried,Married,Post Graduate,3,No,No,Yes,66800,28700,95500,22000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,54400,40200,94600,21000,Sedan
+27,Male,Business,Married,Post Graduate,4,No,No,Yes,64400,28700,93100,30000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,52700,40000,92700,24000,Hatchback
+27,Male,Business,Married,Graduate,2,Yes,Yes,Yes,52800,40600,93400,20000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,62100,30000,92100,19000,Hatchback
+27,Male,Business,Married,Post Graduate,3,No,No,Yes,61300,30400,91700,24000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,66600,25300,91900,20000,Sedan
+27,Male,Business,Married,Post Graduate,3,Yes,No,Yes,64400,25300,89700,19000,Sedan
+27,Male,Business,Married,Post Graduate,4,No,No,Yes,63500,25400,88900,31000,Sedan
+27,Male,Business,Married,Graduate,2,No,No,Yes,47300,40500,87800,32000,Hatchback
+27,Male,Salaried,Married,Graduate,4,Yes,No,Yes,55600,32900,88500,28000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,No,Yes,47200,40900,88100,24000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,No,Yes,57200,28100,85300,32000,Hatchback
+27,Male,Business,Married,Graduate,4,No,No,Yes,53400,32800,86200,28000,Sedan
+27,Male,Business,Married,Graduate,3,No,No,Yes,52000,30100,82100,27000,Sedan
+27,Male,Business,Married,Graduate,3,No,No,Yes,51200,30100,81300,24000,Sedan
+27,Male,Salaried,Married,Graduate,2,No,No,Yes,51700,29200,80900,31000,Sedan
+27,Male,Business,Married,Graduate,3,Yes,Yes,Yes,56400,24600,81000,26000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,No,Yes,55300,25300,80600,23000,Sedan
+27,Male,Business,Married,Post Graduate,2,No,Yes,No,79100,0,79100,30000,Hatchback
+27,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,46700,32700,79400,28000,Hatchback
+27,Male,Salaried,Single,Post Graduate,0,No,No,No,76000,0,76000,23000,Hatchback
+27,Male,Business,Married,Graduate,3,No,No,Yes,47500,28600,76100,22000,Hatchback
+27,Male,Business,Married,Post Graduate,2,Yes,No,No,75800,0,75800,22000,Hatchback
+27,,Salaried,Married,Graduate,2,No,No,Yes,49000,200,49200,18000,Sedan
+27,Male,Business,Single,Post Graduate,2,Yes,Yes,No,74800,0,74800,27000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,Yes,No,74100,0,74100,23000,Hatchback
+27,Male,Salaried,Married,Graduate,3,Yes,No,Yes,49000,25400,74400,20000,Hatchback
+27,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,73600,0,73600,31000,Hatchback
+27,Male,Salaried,Married,Graduate,2,No,Yes,Yes,44300,28800,73100,33000,Hatchback
+27,Male,Salaried,Single,Post Graduate,2,No,No,No,72500,0,72500,30000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,No,No,71500,,71500,23000,Sedan
+27,Male,Business,Married,Graduate,2,Yes,No,Yes,41500,30500,72000,21000,Sedan
+27,Male,Business,Married,Post Graduate,3,No,No,No,71300,0,71300,20000,Sedan
+27,Male,Business,Married,Graduate,3,Yes,No,Yes,45500,25000,70500,30000,Hatchback
+27,Male,Salaried,Married,Post Graduate,4,Yes,No,No,69800,,69800,30000,Hatchback
+27,Male,Business,Married,Post Graduate,2,Yes,No,No,69900,0,69900,27000,Sedan
+27,Male,Business,Married,Post Graduate,2,No,Yes,No,68800,0,68800,28000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,No,No,No,68500,,68500,25000,Hatchback
+27,Male,Salaried,Married,Post Graduate,2,No,Yes,No,67300,0,67300,30000,Hatchback
+27,Male,Business,Married,Post Graduate,3,Yes,Yes,No,67600,0,67600,28000,Sedan
+27,Male,Salaried,Married,Post Graduate,2,Yes,No,No,67100,0,67100,22000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,66900,0,66900,32000,Hatchback
+27,Male,Business,Married,Post Graduate,1,Yes,No,No,66200,0,66200,23000,Hatchback
+27,Male,Salaried,Single,Post Graduate,2,Yes,Yes,No,65900,0,65900,28000,Hatchback
+27,Male,Business,Single,Post Graduate,2,No,No,No,65000,0,65000,25000,Hatchback
+27,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,65200,,65200,23000,Hatchback
+27,Male,Business,Married,Post Graduate,4,Yes,No,No,63700,0,63700,31000,Sedan
+27,Male,Salaried,Married,Post Graduate,3,Yes,No,No,63500,0,63500,26000,Sedan
+27,Male,Business,Married,Post Graduate,2,Yes,No,No,63700,0,63700,23000,Hatchback
+27,Male,Business,Single,Post Graduate,0,Yes,No,No,63600,0,63600,23000,Hatchback
+27,Male,Business,Married,Post Graduate,3,No,No,No,63900,,63900,19000,Hatchback
+27,Male,Salaried,Single,Post Graduate,1,Yes,No,No,62700,,62700,26000,Hatchback
+27,Male,Business,Single,Graduate,2,No,Yes,No,60800,0,60800,24000,Hatchback
+27,Male,Salaried,Married,Graduate,3,No,No,No,59900,0,59900,27000,Sedan
+27,Male,Business,Married,Graduate,3,No,No,No,58700,0,58700,33000,Hatchback
+27,Female,Salaried,Married,Graduate,4,Yes,Yes,No,58400,0,58400,32000,Hatchback
+27,Male,Business,Married,Graduate,3,Yes,No,No,57400,0,57400,23000,Hatchback
+27,Male,Business,Married,Graduate,3,No,No,No,57400,0,57400,21000,Sedan
+27,Male,Business,Married,Graduate,3,No,Yes,No,56100,0,56100,31000,Sedan
+27,Male,Business,Married,Graduate,3,Yes,No,No,55200,0,55200,26000,Hatchback
+27,Male,Business,Married,Graduate,2,Yes,No,No,54400,0,54400,29000,Hatchback
+27,Male,Salaried,Married,Graduate,2,Yes,Yes,No,45400,0,45400,30000,Hatchback
+27,Male,Salaried,Married,Graduate,4,No,Yes,No,44500,0,44500,32000,Hatchback
+27,Male,Business,Married,Graduate,3,Yes,No,No,43200,0,43200,25000,Hatchback
+27,Male,Business,Married,Graduate,3,No,No,No,42800,0,42800,22000,Hatchback
+27,Male,Salaried,Single,Graduate,2,No,No,No,41800,0,41800,28000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,74100,45900,120000,24000,Hatchback
+26,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,74500,40300,114800,28000,Hatchback
+26,Male,Business,Married,Post Graduate,4,No,Yes,Yes,78700,35800,114500,28000,Sedan
+26,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,72000,40600,112600,31000,Hatchback
+26,Male,Business,Married,Post Graduate,2,Yes,No,Yes,70900,40400,111300,21000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,No,No,Yes,79100,30400,109500,25000,Hatchback
+26,,Business,Married,Post Graduate,3,No,No,Yes,69200,100,69300,18000,Sedan
+26,Female,Salaried,Married,Post Graduate,3,No,Yes,Yes,76100,30600,106700,23000,Hatchback
+26,Male,Salaried,Married,Post Graduate,2,No,No,Yes,75000,30500,105500,23000,Hatchback
+26,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,75200,28800,104000,32000,Hatchback
+26,Male,Business,Married,Graduate,3,Yes,Yes,Yes,52500,50300,102800,31000,Hatchback
+26,Male,Business,Married,Post Graduate,3,No,No,Yes,62600,40100,102700,22000,Hatchback
+26,Male,Salaried,Married,Post Graduate,4,Yes,Yes,Yes,73000,28000,101000,32000,Hatchback
+26,Male,Business,Married,Post Graduate,4,No,No,Yes,69600,32000,101600,27000,Hatchback
+26,,Business,Married,Post Graduate,4,Yes,Yes,Yes,66500,30800,97300,18000,Sedan
+26,Male,Salaried,Married,Post Graduate,4,No,No,Yes,72800,28900,101700,33000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,No,Yes,72600,28500,101100,33000,Hatchback
+26,Male,Salaried,Married,Post Graduate,3,No,No,Yes,68400,32700,101100,28000,Hatchback
+26,Male,Business,Married,Post Graduate,2,No,Yes,Yes,67000,32200,99200,27000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,No,No,Yes,74200,24000,98200,22000,Hatchback
+26,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,74600,24700,99300,22000,Hatchback
+26,Male,Business,Married,Post Graduate,3,No,No,Yes,67700,30400,98100,23000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,72600,25700,98300,18000,Sedan
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,67900,28000,95900,29000,Hatchback
+26,Male,Salaried,Married,Post Graduate,2,No,No,Yes,63200,32700,95900,28000,Sedan
+26,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,63700,32500,96200,27000,Hatchback
+26,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,63800,32200,96000,27000,Hatchback
+26,Male,Business,Married,Post Graduate,2,No,No,Yes,70700,25200,95900,20000,Hatchback
+26,Male,Business,Married,Post Graduate,2,Yes,No,Yes,66900,28900,95800,29000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,68600,25700,94300,24000,Sedan
+26,Male,Business,Married,Post Graduate,3,Yes,No,Yes,68400,25000,93400,20000,Hatchback
+26,Male,Salaried,Married,Graduate,2,Yes,No,Yes,52000,40700,92700,26000,Hatchback
+26,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,63000,28200,91200,31000,Hatchback
+26,Male,Business,Married,Post Graduate,2,No,No,Yes,62400,28400,90800,31000,Hatchback
+26,Male,Salaried,Married,Graduate,4,Yes,No,Yes,49900,40500,90400,27000,Sedan
+26,Male,Business,Married,Graduate,3,No,Yes,Yes,47400,40600,88000,20000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,No,Yes,61400,24400,85800,27000,Sedan
+26,Male,Business,Married,Graduate,4,Yes,No,Yes,52500,32100,84600,29000,Hatchback
+26,Male,Business,Married,Post Graduate,3,No,No,Yes,61900,23500,85400,27000,Sedan
+26,Male,Salaried,Married,Graduate,3,Yes,No,Yes,57500,26100,83600,26000,Sedan
+26,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,80300,0,80300,29000,Sedan
+26,Male,Salaried,Married,Graduate,3,No,No,Yes,40200,40100,80300,26000,Sedan
+26,Male,Business,Married,Graduate,3,Yes,Yes,Yes,50600,30900,81500,25000,Hatchback
+26,Male,Salaried,Married,Graduate,3,No,No,Yes,50900,30700,81600,22000,Hatchback
+26,Male,Salaried,Married,Post Graduate,3,No,Yes,No,79800,0,79800,29000,Hatchback
+26,Male,Business,Single,Post Graduate,2,Yes,No,No,79500,0,79500,24000,Hatchback
+26,Male,Salaried,Married,Graduate,2,No,Yes,Yes,54800,25400,80200,21000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,No,Yes,No,78100,0,78100,30000,Hatchback
+26,Male,Business,Married,Graduate,2,Yes,No,Yes,56000,22600,78600,28000,Sedan
+26,Male,Business,Married,Graduate,2,Yes,No,Yes,52100,26900,79000,19000,Sedan
+26,Male,Business,Married,Graduate,3,Yes,Yes,Yes,47400,30000,77400,22000,Hatchback
+26,Male,Salaried,Married,Graduate,2,No,Yes,Yes,46900,30800,77700,26000,Sedan
+26,Male,Salaried,Married,Post Graduate,2,No,Yes,No,76900,0,76900,23000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,No,No,No,74800,0,74800,27000,Sedan
+26,Male,Business,Single,Post Graduate,2,No,Yes,No,74700,0,74700,21000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,No,No,74800,0,74800,21000,Sedan
+26,Male,Salaried,Married,Post Graduate,4,No,No,No,73800,0,73800,30000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,No,73800,0,73800,24000,Hatchback
+26,Male,Salaried,Married,Graduate,3,No,No,Yes,48600,24200,72800,26000,Sedan
+26,Male,Salaried,Single,Post Graduate,2,Yes,No,No,70700,0,70700,31000,Hatchback
+26,Male,Salaried,Married,Graduate,4,No,Yes,Yes,41500,28900,70400,30000,Hatchback
+26,Female,Salaried,Single,Post Graduate,2,No,No,No,69100,,69100,20000,Hatchback
+26,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,44800,25800,70600,19000,Sedan
+26,,Business,Single,Post Graduate,2,No,Yes,No,68800,0,68800,19000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,No,No,68900,0,68900,19000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,No,No,67000,0,67000,27000,Sedan
+26,Male,Business,Married,Post Graduate,2,No,Yes,No,67100,0,67100,27000,Hatchback
+26,Male,Business,Single,Post Graduate,0,Yes,No,No,67500,,67500,23000,Hatchback
+26,,Business,Married,Post Graduate,4,No,No,No,67400,0,67400,18000,Sedan
+26,Male,Salaried,Married,Post Graduate,4,Yes,No,No,66600,0,66600,30000,Hatchback
+26,Male,Salaried,Married,Post Graduate,3,No,No,No,66700,0,66700,23000,Hatchback
+26,Male,Business,Married,Post Graduate,2,Yes,No,No,66800,0,66800,20000,Hatchback
+26,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,65100,0,65100,25000,Hatchback
+26,Male,Business,Single,Post Graduate,2,Yes,No,No,64700,0,64700,23000,Hatchback
+26,Male,Salaried,Single,Post Graduate,2,Yes,No,No,64100,,64100,20000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,No,63200,0,63200,32000,Hatchback
+26,Male,Business,Married,Post Graduate,4,No,No,No,63200,0,63200,31000,Sedan
+26,Male,Business,Married,Post Graduate,3,No,Yes,No,63100,0,63100,24000,Hatchback
+26,Male,Business,Married,Post Graduate,3,Yes,Yes,No,62700,0,62700,26000,Sedan
+26,Male,Salaried,Married,Post Graduate,3,Yes,No,No,62900,0,62900,22000,Hatchback
+26,Male,Salaried,Single,Post Graduate,2,Yes,No,No,61100,0,61100,28000,Hatchback
+26,Male,Salaried,Married,Graduate,3,Yes,No,No,58600,0,58600,23000,Hatchback
+26,Male,Business,Married,Graduate,3,Yes,Yes,No,57300,,57300,22000,Hatchback
+26,Male,Business,Married,Graduate,2,Yes,No,No,54900,0,54900,25000,Hatchback
+26,Male,Business,Married,Graduate,2,Yes,No,No,52000,0,52000,31000,Sedan
+26,Male,Salaried,Married,Graduate,4,No,No,No,52700,0,52700,29000,Hatchback
+26,Male,Business,Married,Graduate,2,Yes,No,No,52200,0,52200,28000,Hatchback
+26,Male,Business,Married,Graduate,3,Yes,No,No,51000,,51000,30000,Hatchback
+26,Male,Salaried,Married,Graduate,3,Yes,No,No,51500,0,51500,23000,Hatchback
+26,,Business,Married,Graduate,3,No,No,No,51400,,51400,18000,Sedan
+26,Male,Business,Married,Graduate,3,Yes,Yes,No,49000,0,49000,23000,Sedan
+26,,Salaried,Married,Graduate,2,No,Yes,No,44400,0,44400,19000,Sedan
+26,Male,Business,Married,Graduate,1,No,Yes,No,43700,0,43700,28000,Hatchback
+26,Male,Salaried,Single,Graduate,2,No,No,No,42600,0,42600,30000,Hatchback
+26,Male,Salaried,Married,Graduate,3,No,No,No,42500,0,42500,25000,Hatchback
+26,Male,Salaried,Single,Graduate,2,Yes,No,No,42200,0,42200,24000,Hatchback
+25,,Salaried,Married,Post Graduate,2,No,Yes,Yes,54400,300,54700,18000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,56300,45500,101800,21000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,59500,40600,100100,25000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,58700,40800,99500,33000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,58900,40100,99000,27000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,Yes,Yes,58600,20000,78600,20000,Hatchback
+25,Male,Business,Married,Post Graduate,2,No,Yes,Yes,54700,900,55600,20000,Hatchback
+25,Male,Business,Married,Post Graduate,4,Yes,No,Yes,56500,35300,91800,32000,Hatchback
+25,Male,Business,Married,Post Graduate,4,Yes,No,Yes,51700,40400,92100,29000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,No,Yes,50200,40700,90900,25000,Hatchback
+25,Male,Business,Married,Post Graduate,2,Yes,No,Yes,59300,30800,90100,27000,Sedan
+25,Male,Business,Married,Post Graduate,2,Yes,No,Yes,58300,30200,88500,24000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,No,Yes,57900,30400,88300,26000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,No,No,Yes,58100,28500,86600,30000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,No,Yes,56000,30600,86600,23000,Sedan
+25,Male,Business,Married,Post Graduate,2,Yes,No,Yes,55600,30800,86400,31000,Hatchback
+25,,Business,Married,Post Graduate,3,No,No,Yes,60800,25100,85900,19000,Sedan
+25,Male,Business,Married,Post Graduate,4,Yes,No,Yes,56700,28200,84900,31000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,Yes,Yes,54100,30800,84900,26000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,No,Yes,58700,26200,84900,25000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,54800,30200,85000,24000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,Yes,Yes,54900,30600,85500,22000,Hatchback
+25,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,53200,30900,84100,25000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,53700,30400,84100,24000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,No,Yes,58600,25500,84100,20000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,58700,24200,82900,28000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,No,Yes,53100,28200,81300,31000,Sedan
+25,Male,Salaried,Married,Post Graduate,4,No,No,Yes,58800,23200,82000,30000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,No,Yes,56400,25400,81800,20000,Sedan
+25,Male,Business,Married,Post Graduate,4,Yes,No,Yes,54000,26900,80900,31000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,Yes,Yes,50500,30500,81000,26000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,55300,25000,80300,20000,Hatchback
+25,Male,Business,Married,Post Graduate,4,No,No,Yes,51400,28600,80000,31000,Sedan
+25,Male,Business,Married,Graduate,4,Yes,No,Yes,39700,40900,80600,30000,Hatchback
+25,Male,Salaried,Married,Graduate,2,No,No,Yes,39800,40000,79800,28000,Hatchback
+25,Male,Business,Married,Graduate,2,No,No,Yes,38600,40800,79400,21000,Sedan
+25,Male,Business,Married,Post Graduate,4,No,Yes,Yes,52700,25300,78000,30000,Hatchback
+25,Male,Salaried,Married,Graduate,3,No,Yes,Yes,37700,40100,77800,20000,Sedan
+25,Male,Business,Married,Graduate,3,No,Yes,Yes,36100,40200,76300,24000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,No,No,Yes,50600,25700,76300,20000,Hatchback
+25,Male,Salaried,Married,Graduate,4,No,Yes,Yes,34700,40000,74700,33000,Hatchback
+25,Male,Salaried,Married,Graduate,3,No,Yes,Yes,34100,40700,74800,31000,Hatchback
+25,Male,Salaried,Married,Post Graduate,4,Yes,Yes,Yes,52000,22300,74300,28000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,Yes,Yes,34800,40200,75000,26000,Sedan
+25,Male,Salaried,Married,Graduate,4,Yes,No,Yes,39400,32200,71600,27000,Sedan
+25,Male,Salaried,Married,Graduate,2,No,No,Yes,40500,30800,71300,26000,Hatchback
+25,Male,Salaried,Married,Graduate,3,No,No,Yes,40300,30600,70900,24000,Sedan
+25,Male,Business,Married,Graduate,3,No,Yes,Yes,33000,35400,68400,32000,Hatchback
+25,Male,Salaried,Married,Graduate,4,Yes,No,Yes,36100,32200,68300,27000,Sedan
+25,Male,Business,Married,Graduate,3,Yes,No,Yes,39600,28300,67900,33000,Hatchback
+25,Male,Business,Married,Graduate,3,Yes,Yes,Yes,33700,32900,66600,29000,Sedan
+25,Male,Salaried,Married,Graduate,3,No,No,Yes,35000,30500,65500,23000,Sedan
+25,Male,Salaried,Married,Graduate,4,No,Yes,Yes,36200,28200,64400,33000,Hatchback
+25,Male,Business,Married,Graduate,2,Yes,No,Yes,36500,28600,65100,30000,Hatchback
+25,Male,Salaried,Married,Graduate,2,No,No,Yes,32600,30700,63300,26000,Sedan
+25,Male,Business,Married,Graduate,3,No,Yes,Yes,32300,30900,63200,23000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,No,No,60900,,60900,23000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,No,Yes,35900,25000,60900,20000,Hatchback
+25,Male,Salaried,Single,Post Graduate,0,Yes,No,No,60700,0,60700,19000,Hatchback
+25,Male,Business,Married,Post Graduate,1,Yes,No,No,59200,0,59200,32000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,No,No,59100,0,59100,26000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,Yes,No,59200,0,59200,21000,Sedan
+25,Male,Salaried,Married,Graduate,3,No,Yes,Yes,34800,25400,60200,19000,Hatchback
+25,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,58100,0,58100,29000,Hatchback
+25,Male,Salaried,Single,Post Graduate,2,No,No,No,58700,0,58700,27000,Hatchback
+25,Male,Salaried,Married,Graduate,3,No,No,Yes,33100,20000,53100,20000,Hatchback
+25,Male,Business,Single,Post Graduate,2,No,No,No,58000,,58000,19000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,No,No,57900,,57900,32000,Hatchback
+25,Male,Salaried,Married,Post Graduate,4,No,No,No,57600,0,57600,32000,Hatchback
+25,Male,Salaried,Single,Post Graduate,2,No,No,No,57800,0,57800,31000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,Yes,No,57100,0,57100,28000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,No,No,57600,0,57600,25000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,No,Yes,32500,25200,57700,21000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,57100,0,57100,20000,Hatchback
+25,Male,Salaried,Married,Post Graduate,4,No,Yes,No,56800,0,56800,31000,Sedan
+25,Male,Business,Married,Post Graduate,3,Yes,Yes,No,56200,0,56200,20000,Hatchback
+25,Male,Salaried,Married,Graduate,2,No,No,Yes,31000,25900,56900,20000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,Yes,No,56900,0,56900,19000,Sedan
+25,Male,Business,Married,Graduate,3,No,No,Yes,31200,25900,57100,19000,Hatchback
+25,Male,Business,Single,Post Graduate,2,No,No,No,55900,0,55900,30000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,No,No,55900,0,55900,29000,Sedan
+25,Male,Business,Married,Post Graduate,3,Yes,No,No,55500,0,55500,27000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,Yes,No,55600,,55600,24000,Hatchback
+25,Male,Business,Married,Post Graduate,4,No,No,No,53800,0,53800,30000,Hatchback
+25,Male,Business,Single,Post Graduate,2,Yes,Yes,No,53800,0,53800,27000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,No,No,53200,,53200,20000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,Yes,No,53600,0,53600,20000,Sedan
+25,Male,Business,Married,Post Graduate,3,No,Yes,No,52000,0,52000,30000,Hatchback
+25,Male,Business,Married,Post Graduate,3,No,No,No,52900,0,52900,27000,Sedan
+25,Male,Salaried,Married,Post Graduate,3,No,Yes,No,52500,,52500,26000,Hatchback
+25,Male,Business,Single,Post Graduate,2,Yes,Yes,No,52300,0,52300,24000,Hatchback
+25,Male,Business,Married,Post Graduate,2,Yes,No,No,52400,0,52400,22000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,52000,0,52000,20000,Hatchback
+25,Male,Salaried,Married,Post Graduate,2,No,No,No,51900,0,51900,25000,Hatchback
+25,Male,Business,Married,Post Graduate,3,Yes,Yes,No,51300,,51300,20000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,No,No,No,50900,0,50900,29000,Hatchback
+25,Male,Business,Married,Post Graduate,2,Yes,No,No,50500,0,50500,25000,Hatchback
+25,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,50100,0,50100,23000,Sedan
+25,Male,Business,Married,Graduate,4,No,No,No,39100,,39100,32000,Hatchback
+25,Male,Business,Single,Graduate,2,No,No,No,39300,0,39300,25000,Hatchback
+25,Male,Business,Married,Graduate,3,Yes,No,No,39700,0,39700,24000,Sedan
+25,Male,Salaried,Married,Graduate,2,Yes,No,No,39600,0,39600,20000,Hatchback
+25,Male,Business,Married,Graduate,3,Yes,Yes,No,39200,0,39200,18000,Sedan
+25,Male,Business,Married,Graduate,4,No,No,No,38900,0,38900,32000,Hatchback
+25,Male,Salaried,Married,Graduate,1,Yes,No,No,38100,0,38100,24000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,Yes,No,38600,,38600,21000,Sedan
+25,Male,Salaried,Married,Graduate,3,Yes,No,No,38500,0,38500,20000,Hatchback
+25,Male,Business,Married,Graduate,3,Yes,Yes,No,35600,0,35600,23000,Sedan
+25,Male,Business,Married,Graduate,1,Yes,No,No,34200,,34200,30000,Hatchback
+25,Male,Salaried,Married,Graduate,4,No,No,No,34600,0,34600,28000,Hatchback
+25,Male,Business,Married,Graduate,3,No,No,No,34900,,34900,26000,Hatchback
+25,Male,Salaried,Married,Graduate,4,No,Yes,No,32300,0,32300,28000,Hatchback
+25,Male,Salaried,Single,Graduate,2,No,No,No,32500,0,32500,26000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,No,No,32000,0,32000,19000,Sedan
+25,Male,Business,Single,Graduate,2,Yes,No,No,31800,0,31800,31000,Hatchback
+25,Male,Business,Single,Graduate,2,No,Yes,No,31300,0,31300,27000,Hatchback
+25,Male,Business,Single,Graduate,2,Yes,No,No,31800,0,31800,25000,Hatchback
+25,Male,Salaried,Married,Graduate,3,Yes,No,No,31200,0,31200,18000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,No,No,Yes,60700,40800,101500,25000,Hatchback
+24,,Salaried,Married,Post Graduate,3,Yes,No,Yes,60300,100,60400,18000,Sedan
+24,Male,Business,Married,Post Graduate,2,No,No,Yes,59000,40500,99500,26000,Hatchback
+24,Male,Salaried,Married,Post Graduate,4,No,No,Yes,58900,40400,99300,31000,Sedan
+24,Male,Business,Married,Post Graduate,2,Yes,No,Yes,58400,40200,98600,31000,Sedan
+24,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,57500,40000,97500,23000,Sedan
+24,,Business,Married,Post Graduate,3,No,Yes,Yes,57800,200,58000,18000,Sedan
+24,Male,Business,Married,Post Graduate,2,Yes,Yes,Yes,56500,40200,96700,27000,Sedan
+24,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,55100,40500,95600,31000,Sedan
+24,Male,Salaried,Married,Post Graduate,3,No,No,Yes,55800,40100,95900,27000,Sedan
+24,Male,Business,Married,Post Graduate,3,No,No,Yes,54300,40900,95200,32000,Hatchback
+24,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,53600,40500,94100,32000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,52000,40300,92300,23000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,No,No,Yes,59600,30000,89600,26000,Sedan
+24,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,58300,30700,89000,28000,Hatchback
+24,Male,Business,Married,Post Graduate,2,Yes,No,Yes,58700,30000,88700,23000,Sedan
+24,Male,Business,Married,Post Graduate,3,No,No,Yes,58900,28500,87400,31000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,56700,30700,87400,26000,Sedan
+24,Male,Salaried,Married,Post Graduate,3,No,No,Yes,56400,30000,86400,22000,Hatchback
+24,Male,Business,Married,Post Graduate,3,No,Yes,Yes,58900,28100,87000,19000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,No,Yes,57100,28600,85700,30000,Hatchback
+24,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,53300,32400,85700,29000,Sedan
+24,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,55500,30100,85600,26000,Hatchback
+24,Male,Business,Married,Post Graduate,3,No,Yes,Yes,51000,32500,83500,28000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,53300,30500,83800,25000,Hatchback
+24,Male,Business,Married,Post Graduate,2,No,No,Yes,54100,28900,83000,32000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,No,Yes,54000,28200,82200,31000,Hatchback
+24,Male,Business,Married,Post Graduate,4,No,No,Yes,57600,24900,82500,32000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,51000,30000,81000,22000,Hatchback
+24,Male,Business,Married,Post Graduate,3,No,Yes,Yes,56400,25300,81700,20000,Hatchback
+24,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,52800,28700,81500,30000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,No,Yes,56400,24000,80400,29000,Hatchback
+24,Male,Business,Married,Post Graduate,2,Yes,Yes,Yes,54500,26900,81400,23000,Hatchback
+24,,Business,Married,Post Graduate,3,No,No,Yes,55400,25600,81000,19000,Sedan
+24,Male,Business,Married,Graduate,3,Yes,No,Yes,38900,40800,79700,20000,Sedan
+24,Female,Salaried,Married,Graduate,2,Yes,No,Yes,37000,40300,77300,32000,Hatchback
+24,Male,Business,Married,Graduate,2,Yes,No,Yes,37400,40300,77700,21000,Sedan
+24,,Salaried,Married,Post Graduate,4,No,Yes,Yes,52200,500,52700,18000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,No,No,Yes,51300,25400,76700,21000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,No,No,Yes,51700,25100,76800,19000,Sedan
+24,Male,Business,Married,Post Graduate,2,Yes,No,Yes,51000,25300,76300,19000,Hatchback
+24,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,50100,25800,75900,29000,Sedan
+24,Male,Business,Married,Graduate,3,No,Yes,Yes,35300,40100,75400,24000,Hatchback
+24,Male,Business,Married,Graduate,2,No,Yes,Yes,32300,40300,72600,29000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,Yes,32600,40000,72600,20000,Hatchback
+24,Male,Business,Married,Graduate,4,Yes,No,Yes,31000,40300,71300,31000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,Yes,39700,30100,69800,22000,Hatchback
+24,Male,Salaried,Married,Graduate,3,No,Yes,Yes,32200,35900,68100,33000,Hatchback
+24,Male,Business,Married,Graduate,4,Yes,No,Yes,39800,28200,68000,32000,Hatchback
+24,Male,Business,Married,Graduate,2,Yes,Yes,Yes,34700,32900,67600,28000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,Yes,37600,28000,65600,29000,Hatchback
+24,Male,Salaried,Married,Graduate,3,No,Yes,Yes,39800,25100,64900,21000,Sedan
+24,Male,Business,Married,Graduate,3,No,No,Yes,35000,28200,63200,30000,Hatchback
+24,Male,Salaried,Married,Graduate,4,No,Yes,Yes,31900,32500,64400,29000,Hatchback
+24,Male,Business,Married,Graduate,3,Yes,Yes,Yes,33700,30600,64300,23000,Sedan
+24,Male,Business,Married,Post Graduate,3,No,No,No,60900,0,60900,20000,Hatchback
+24,Male,Business,Married,Post Graduate,2,Yes,No,No,59400,0,59400,32000,Hatchback
+24,Male,Business,Married,Graduate,2,Yes,Yes,Yes,31500,28000,59500,31000,Hatchback
+24,Male,Business,Married,Post Graduate,2,Yes,No,No,59900,,59900,23000,Hatchback
+24,Male,Salaried,Married,Graduate,3,Yes,No,Yes,34300,25200,59500,20000,Sedan
+24,Male,Business,Single,Post Graduate,2,No,No,No,58800,0,58800,31000,Hatchback
+24,Male,Business,Married,Post Graduate,3,Yes,No,No,58300,0,58300,30000,Hatchback
+24,Male,Business,Married,Post Graduate,3,Yes,No,No,58600,0,58600,29000,Sedan
+24,Male,Business,Married,Graduate,3,No,Yes,Yes,33400,25900,59300,21000,Sedan
+24,Male,Business,Married,Graduate,3,No,No,Yes,33200,25700,58900,20000,Hatchback
+24,Male,Salaried,Married,Graduate,3,Yes,No,Yes,34600,,58800,20000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,Yes,No,No,58900,0,58900,19000,Sedan
+24,Male,Salaried,Married,Post Graduate,3,No,No,No,57200,0,57200,30000,Sedan
+24,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,57900,0,57900,23000,Hatchback
+24,Male,Business,Married,Graduate,3,Yes,No,Yes,32400,,58200,18000,Sedan
+24,Female,Salaried,Married,Post Graduate,3,No,No,No,56000,,56000,33000,Hatchback
+24,Male,Business,Married,Post Graduate,2,No,Yes,No,56100,0,56100,26000,Sedan
+24,Male,Business,Married,Post Graduate,3,No,No,No,56400,0,56400,25000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,No,No,56100,0,56100,25000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,Yes,No,No,56100,,56100,24000,Hatchback
+24,Male,Business,Married,Post Graduate,4,No,Yes,No,55000,0,55000,28000,Hatchback
+24,Male,Business,Married,Post Graduate,3,No,Yes,No,55100,0,55100,28000,Sedan
+24,Male,Salaried,Married,Post Graduate,4,Yes,Yes,No,54100,0,54100,27000,Hatchback
+24,Male,Salaried,Married,Post Graduate,2,Yes,No,No,54000,,54000,25000,Hatchback
+24,Male,Business,Single,Post Graduate,2,Yes,Yes,No,54200,0,54200,20000,Hatchback
+24,Male,Salaried,Single,Post Graduate,2,No,Yes,No,52400,0,52400,24000,Hatchback
+24,Male,Business,Married,Post Graduate,3,Yes,No,No,52000,0,52000,19000,Hatchback
+24,Male,Salaried,Married,Post Graduate,3,No,No,No,51300,,51300,28000,Hatchback
+24,Male,Salaried,Married,Graduate,4,No,No,No,39900,0,39900,33000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,No,39200,0,39200,31000,Hatchback
+24,Male,Salaried,Married,Graduate,2,No,No,No,39100,0,39100,26000,Hatchback
+24,Male,Salaried,Married,Graduate,3,No,No,No,39500,0,39500,22000,Hatchback
+24,Male,Salaried,Married,Graduate,3,No,Yes,No,39400,0,39400,21000,Sedan
+24,Male,Business,Single,Graduate,2,Yes,No,No,38400,0,38400,25000,Hatchback
+24,Male,Business,Single,Graduate,0,Yes,No,No,38200,0,38200,22000,Hatchback
+24,Male,Salaried,Married,Graduate,4,Yes,Yes,No,36500,0,36500,33000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,No,36900,0,36900,24000,Hatchback
+24,Male,Salaried,Single,Graduate,0,No,Yes,No,35400,0,35400,22000,Hatchback
+24,Male,Salaried,Single,Graduate,2,No,No,No,35300,0,35300,20000,Hatchback
+24,Male,Business,Single,Graduate,0,No,No,No,35700,0,35700,18000,Hatchback
+24,Male,Salaried,Married,Graduate,3,No,No,No,34200,0,34200,32000,Hatchback
+24,Male,Salaried,Married,Graduate,4,Yes,No,No,34300,0,34300,28000,Hatchback
+24,Male,Business,Married,Graduate,3,No,No,No,34100,0,34100,22000,Hatchback
+24,Male,Business,Married,Graduate,4,Yes,Yes,No,31900,0,31900,28000,Hatchback
+24,Male,Business,Single,Graduate,2,Yes,Yes,No,31300,0,31300,25000,Hatchback
+24,Male,Business,Married,Graduate,3,Yes,No,No,31100,0,31100,22000,Hatchback
+24,Male,Business,Married,Graduate,4,No,Yes,No,30900,0,30900,28000,Hatchback
+24,Male,Business,Married,Graduate,3,No,Yes,No,30600,0,30600,22000,Hatchback
+24,,Salaried,Single,Graduate,2,No,Yes,No,30000,0,30000,18000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,No,No,Yes,60900,40500,101400,25000,Hatchback
+23,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,53100,45000,98100,32000,Hatchback
+23,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,56600,40200,96800,23000,Sedan
+23,Male,Salaried,Married,Post Graduate,4,No,Yes,Yes,53800,40500,94300,28000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,51400,40500,91900,29000,Hatchback
+23,Female,Salaried,Married,Post Graduate,2,Yes,No,Yes,59100,32000,91100,27000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,No,Yes,51900,40100,92000,24000,Hatchback
+23,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,58200,32600,90800,28000,Hatchback
+23,Male,Business,Married,Post Graduate,2,Yes,No,Yes,50800,40100,90900,22000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,60200,28700,88900,32000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,No,Yes,58300,30100,88400,24000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,No,Yes,58800,30200,89000,23000,Sedan
+23,Male,Business,Married,Post Graduate,4,Yes,No,Yes,59300,28000,87300,30000,Hatchback
+23,Male,Salaried,Married,Post Graduate,4,No,No,Yes,55000,32300,87300,29000,Sedan
+23,Male,Salaried,Married,Post Graduate,2,No,No,Yes,56000,30300,86300,24000,Hatchback
+23,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,57100,28200,85300,31000,Sedan
+23,Male,Business,Married,Post Graduate,3,No,No,Yes,55300,30900,86200,23000,Sedan
+23,Male,Business,Married,Post Graduate,4,Yes,No,Yes,56400,28900,85300,33000,Hatchback
+23,Male,Business,Married,Post Graduate,2,Yes,Yes,Yes,53100,30600,83700,23000,Hatchback
+23,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,53000,30600,83600,21000,Sedan
+23,Male,Salaried,Married,Post Graduate,2,No,No,Yes,58600,600,59200,20000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,52500,30800,83300,24000,Sedan
+23,Male,Salaried,Married,Post Graduate,3,No,No,Yes,53900,28000,81900,32000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,51300,30300,81600,26000,Sedan
+23,Male,Business,Married,Post Graduate,2,No,No,Yes,51400,30500,81900,24000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,55400,25800,81200,26000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,55200,25700,80900,20000,Hatchback
+23,Male,Business,Married,Post Graduate,2,No,Yes,Yes,51200,28000,79200,32000,Hatchback
+23,Male,Salaried,Married,Graduate,3,No,No,Yes,39600,40100,79700,23000,Sedan
+23,Male,Salaried,Married,Post Graduate,3,No,No,Yes,53300,25500,78800,20000,Sedan
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,37500,40000,77500,25000,Hatchback
+23,Male,Business,Married,Graduate,2,Yes,No,Yes,37800,40900,78700,22000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,52800,25500,78300,21000,Sedan
+23,Male,Business,Married,Graduate,2,Yes,Yes,Yes,35400,40400,75800,27000,Sedan
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,35600,40000,75600,24000,Hatchback
+23,Male,Salaried,Married,Graduate,2,Yes,No,Yes,35500,40600,76100,23000,Sedan
+23,Male,Business,Married,Post Graduate,3,No,Yes,Yes,50400,900,51300,20000,Hatchback
+23,Male,Salaried,Married,Graduate,2,No,No,Yes,33100,40700,73800,21000,Sedan
+23,Male,Business,Married,Graduate,3,Yes,Yes,Yes,32500,40700,73200,29000,Hatchback
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,32800,100,32900,20000,Hatchback
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,30100,40600,70700,29000,Sedan
+23,Male,Business,Married,Graduate,4,No,Yes,Yes,34600,35600,70200,32000,Hatchback
+23,Male,Business,Married,Graduate,3,Yes,No,Yes,39500,30800,70300,27000,Sedan
+23,Male,Business,Married,Graduate,2,Yes,No,Yes,37200,32600,69800,27000,Sedan
+23,Male,Business,Married,Graduate,3,Yes,Yes,Yes,40600,28800,69400,32000,Hatchback
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,38200,30400,68600,22000,Hatchback
+23,Male,Business,Married,Graduate,4,Yes,Yes,Yes,38100,28600,66700,33000,Hatchback
+23,Male,Salaried,Married,Graduate,4,Yes,No,Yes,38100,28100,66200,31000,Hatchback
+23,Male,Salaried,Married,Graduate,2,No,No,Yes,37100,28200,65300,31000,Sedan
+23,Male,Salaried,Married,Graduate,3,Yes,No,Yes,37100,28500,65600,30000,Hatchback
+23,Male,Salaried,Married,Graduate,1,Yes,Yes,Yes,32900,30300,63200,27000,Sedan
+23,Male,Business,Married,Graduate,3,No,No,Yes,32100,30700,62800,26000,Hatchback
+23,Male,Business,Married,Graduate,3,Yes,No,Yes,32700,30200,62900,24000,Hatchback
+23,,Salaried,Married,Graduate,2,No,Yes,Yes,37000,25100,62100,19000,Sedan
+23,Male,Salaried,Married,Graduate,3,No,No,Yes,30100,30400,60500,27000,Sedan
+23,Male,Business,Married,Graduate,3,No,No,Yes,30000,30400,60400,23000,Hatchback
+23,Male,Business,Single,Post Graduate,2,No,No,No,59500,0,59500,33000,Hatchback
+23,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,31700,28800,60500,32000,Hatchback
+23,Male,Salaried,Married,Graduate,4,No,Yes,Yes,31900,28400,60300,30000,Hatchback
+23,Male,Business,Married,Post Graduate,3,No,Yes,No,59100,0,59100,23000,Sedan
+23,Male,Salaried,Married,Graduate,2,No,No,Yes,34200,25700,59900,19000,Hatchback
+23,Male,Salaried,Married,Post Graduate,4,Yes,No,No,58200,0,58200,30000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,Yes,No,58100,0,58100,30000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,No,58500,0,58500,26000,Hatchback
+23,Male,Business,Married,Post Graduate,3,Yes,No,No,58700,0,58700,24000,Sedan
+23,Male,Salaried,Single,Post Graduate,2,Yes,Yes,No,58600,0,58600,24000,Hatchback
+23,,Salaried,Married,Post Graduate,3,Yes,Yes,No,58100,0,58100,18000,Sedan
+23,Male,Business,Married,Post Graduate,4,Yes,Yes,No,57300,0,57300,29000,Sedan
+23,Male,Salaried,Married,Post Graduate,1,No,No,No,57400,0,57400,28000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,Yes,No,57600,,57600,28000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,No,No,No,57200,0,57200,24000,Hatchback
+23,Male,Business,Married,Post Graduate,3,No,Yes,No,56900,0,56900,31000,Hatchback
+23,Male,Business,Married,Post Graduate,4,Yes,No,No,56400,0,56400,29000,Hatchback
+23,Male,Business,Single,Post Graduate,2,Yes,No,No,56900,0,56900,26000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,No,55600,0,55600,29000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,No,55700,0,55700,25000,Hatchback
+23,Male,Business,Married,Post Graduate,3,Yes,Yes,No,55300,0,55300,23000,Sedan
+23,Male,Salaried,Married,Post Graduate,3,Yes,Yes,No,54300,,54300,27000,Sedan
+23,Male,Business,Single,Post Graduate,2,Yes,Yes,No,54600,0,54600,25000,Hatchback
+23,Male,Business,Married,Post Graduate,2,No,No,No,54400,,54400,21000,Sedan
+23,Male,Salaried,Married,Post Graduate,3,Yes,No,No,53100,0,53100,23000,Sedan
+23,Male,Business,Married,Post Graduate,3,No,No,No,52000,0,52000,26000,Hatchback
+23,Male,Business,Married,Post Graduate,3,No,No,No,52600,0,52600,22000,Hatchback
+23,,Salaried,Married,Post Graduate,3,Yes,No,No,52900,,52900,18000,Sedan
+23,Male,Business,Single,Post Graduate,2,No,No,No,51400,0,51400,31000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,Yes,Yes,No,51100,0,51100,25000,Hatchback
+23,Male,Business,Married,Post Graduate,3,No,Yes,No,51900,0,51900,23000,Hatchback
+23,Male,Salaried,Married,Post Graduate,3,No,No,No,51400,0,51400,20000,Hatchback
+23,Male,Salaried,Married,Post Graduate,2,Yes,No,No,50900,0,50900,33000,Hatchback
+23,Male,Salaried,Single,Graduate,2,Yes,Yes,No,37000,0,37000,33000,Hatchback
+23,Male,Salaried,Single,Graduate,2,Yes,Yes,No,36200,0,36200,28000,Hatchback
+23,Male,Business,Married,Graduate,4,No,No,No,35400,0,35400,28000,Hatchback
+23,Male,Salaried,Single,Graduate,2,Yes,No,No,35800,0,35800,26000,Hatchback
+23,Male,Business,Single,Graduate,0,No,Yes,No,35700,0,35700,22000,Hatchback
+23,Male,Business,Married,Graduate,1,Yes,No,No,35600,0,35600,22000,Hatchback
+23,Male,Business,Single,Graduate,2,No,No,No,34000,0,34000,25000,Hatchback
+23,Male,Salaried,Married,Graduate,3,Yes,No,No,33200,0,33200,32000,Hatchback
+23,Male,Business,Married,Graduate,3,Yes,No,No,33000,0,33000,22000,Hatchback
+23,Male,Salaried,Married,Graduate,4,Yes,No,No,32200,0,32200,30000,Hatchback
+23,Male,Business,Single,Graduate,2,No,No,No,32300,0,32300,29000,Hatchback
+23,,Salaried,Married,Graduate,3,Yes,No,No,32200,0,32200,19000,Sedan
+23,Male,Salaried,Married,Graduate,3,No,Yes,No,31500,0,31500,31000,Hatchback
+23,,Salaried,Married,Graduate,4,Yes,Yes,No,31100,0,31100,18000,Sedan
+22,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,56100,45200,101300,20000,Sedan
+22,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,60200,40800,101000,27000,Sedan
+22,,Salaried,Married,Post Graduate,3,No,No,Yes,55900,45500,101400,19000,Sedan
+22,Male,Business,Married,Post Graduate,4,No,No,Yes,59600,40100,99700,30000,Hatchback
+22,Male,Business,Married,Post Graduate,2,No,No,Yes,58700,40900,99600,30000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,57600,40800,98400,25000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,56300,40500,96800,28000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,55400,40500,95900,31000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,54600,40200,94800,27000,Sedan
+22,Male,Salaried,Married,Post Graduate,4,No,No,Yes,58000,35200,93200,30000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,No,Yes,52900,40400,93300,32000,Hatchback
+22,Male,Salaried,Married,Post Graduate,2,No,Yes,Yes,57300,35600,92900,31000,Sedan
+22,Male,Salaried,Married,Post Graduate,4,Yes,No,Yes,59000,32200,91200,28000,Hatchback
+22,Male,Salaried,Married,Post Graduate,2,Yes,Yes,Yes,51200,40500,91700,27000,Sedan
+22,Male,Business,Married,Post Graduate,3,No,Yes,Yes,56400,35000,91400,19000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,Yes,Yes,57300,32600,89900,28000,Hatchback
+22,Female,Salaried,Married,Post Graduate,4,No,No,Yes,56600,32900,89500,28000,Hatchback
+22,Male,Business,Married,Post Graduate,3,Yes,No,Yes,58600,30700,89300,26000,Sedan
+22,Male,Salaried,Married,Post Graduate,2,Yes,No,Yes,58600,30200,88800,23000,Sedan
+22,Male,Business,Married,Post Graduate,3,Yes,No,Yes,58300,30300,88600,23000,Sedan
+22,Male,Salaried,Married,Post Graduate,2,No,No,Yes,53800,400,54200,20000,Hatchback
+22,Male,Business,Married,Post Graduate,3,Yes,No,Yes,57600,30400,88000,22000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,Yes,Yes,Yes,55700,30600,86300,24000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,No,Yes,Yes,56600,28000,84600,32000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,No,Yes,52000,32700,84700,29000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,No,Yes,52900,32900,85800,28000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,54500,30500,85000,24000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,No,Yes,55400,28100,83500,33000,Hatchback
+22,Male,Business,Married,Post Graduate,3,Yes,Yes,Yes,53700,30400,84100,23000,Hatchback
+22,Male,Business,Married,Post Graduate,2,Yes,No,Yes,54500,28500,83000,30000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,No,Yes,52800,30300,83100,24000,Hatchback
+22,Female,Salaried,Married,Post Graduate,2,No,No,Yes,52500,30600,83100,23000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,Yes,Yes,52300,30100,82400,22000,Hatchback
+22,Male,Business,Married,Graduate,2,No,Yes,Yes,40100,40000,80100,26000,Sedan
+22,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,51600,28000,79600,32000,Hatchback
+22,Male,Salaried,Married,Graduate,4,Yes,No,Yes,38700,40200,78900,30000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,Yes,No,Yes,52300,25600,77900,27000,Sedan
+22,Male,Business,Married,Post Graduate,2,Yes,No,Yes,50200,25200,75400,21000,Sedan
+22,Male,Business,Married,Post Graduate,3,Yes,No,Yes,50000,25800,75800,19000,Hatchback
+22,Male,Salaried,Married,Graduate,2,Yes,No,Yes,34400,40000,74400,28000,Hatchback
+22,,Salaried,Married,Graduate,2,No,No,Yes,39800,700,40500,18000,Sedan
+22,Male,Salaried,Married,Graduate,3,No,No,Yes,33800,40500,74300,24000,Sedan
+22,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,38300,32000,70300,29000,Sedan
+22,Male,Business,Married,Graduate,3,No,No,Yes,34800,35700,70500,20000,Hatchback
+22,Male,Business,Married,Graduate,2,Yes,No,Yes,38500,30000,68500,22000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,Yes,Yes,40100,27800,67900,32000,Hatchback
+22,Male,Salaried,Married,Graduate,2,No,No,Yes,36500,30200,66700,22000,Hatchback
+22,Male,Salaried,Married,Graduate,2,Yes,Yes,Yes,34900,30900,65800,25000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,No,Yes,33300,30500,63800,25000,Hatchback
+22,Female,Salaried,Married,Graduate,3,No,No,Yes,34800,28100,62900,31000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,Yes,Yes,31300,30900,62200,23000,Sedan
+22,Male,Business,Married,Post Graduate,4,Yes,No,No,60500,0,60500,29000,Sedan
+22,Male,Salaried,Married,Graduate,2,No,No,Yes,32100,28100,60200,27000,Sedan
+22,Male,Salaried,Married,Post Graduate,4,Yes,No,No,59800,,59800,32000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,No,No,59900,0,59900,21000,Sedan
+22,Male,Business,Married,Post Graduate,1,Yes,No,No,59200,0,59200,21000,Sedan
+22,Male,Business,Single,Post Graduate,2,Yes,No,No,59600,0,59600,20000,Hatchback
+22,Male,Business,Married,Post Graduate,3,Yes,No,No,58500,0,58500,29000,Sedan
+22,Male,Salaried,Married,Post Graduate,1,Yes,No,No,58300,0,58300,25000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,No,Yes,32600,,59300,20000,Hatchback
+22,,Salaried,Married,Graduate,2,No,No,Yes,33200,25700,58900,19000,Sedan
+22,Male,Business,Married,Post Graduate,4,No,Yes,No,57100,0,57100,32000,Hatchback
+22,Male,Business,Single,Post Graduate,2,Yes,No,No,57100,0,57100,23000,Hatchback
+22,Male,Business,Single,Post Graduate,2,No,No,No,56600,0,56600,29000,Hatchback
+22,Male,Business,Married,Post Graduate,3,No,No,No,56400,0,56400,22000,Hatchback
+22,Male,Business,Married,Post Graduate,4,Yes,No,No,55300,0,55300,29000,Hatchback
+22,Male,Salaried,Single,Post Graduate,2,Yes,No,No,55200,0,55200,27000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,No,No,No,53100,0,53100,26000,Hatchback
+22,Male,Salaried,Single,Post Graduate,2,Yes,No,No,53200,0,53200,26000,Hatchback
+22,Male,Salaried,Married,Post Graduate,3,No,No,No,53700,,53700,25000,Hatchback
+22,,Salaried,Married,Post Graduate,3,Yes,No,No,53800,0,53800,18000,Sedan
+22,Male,Business,Single,Post Graduate,2,Yes,No,No,52100,,52100,30000,Hatchback
+22,Male,Business,Married,Post Graduate,3,Yes,No,No,52100,,52100,28000,Hatchback
+22,Male,Business,Married,Post Graduate,2,Yes,No,No,52500,0,52500,18000,Sedan
+22,Male,Business,Married,Post Graduate,4,No,No,No,51200,0,51200,32000,Hatchback
+22,Male,Salaried,Single,Post Graduate,0,Yes,Yes,No,51900,0,51900,23000,Hatchback
+22,Male,Business,Married,Post Graduate,2,Yes,No,No,51300,0,51300,22000,Sedan
+22,Male,Salaried,Married,Post Graduate,3,No,Yes,No,51900,0,51900,19000,Hatchback
+22,Male,Salaried,Married,Graduate,3,No,No,No,40000,0,40000,24000,Hatchback
+22,Male,Salaried,Married,Graduate,3,No,No,No,39600,0,39600,24000,Hatchback
+22,Male,Salaried,Single,Graduate,0,Yes,Yes,No,39700,,39700,23000,Hatchback
+22,Male,Salaried,Married,Graduate,3,No,Yes,No,38000,,38000,23000,Sedan
+22,Male,Salaried,Married,Graduate,3,No,Yes,No,38600,0,38600,22000,Hatchback
+22,Male,Business,Single,Graduate,0,Yes,No,No,38000,0,38000,21000,Hatchback
+22,Male,Business,Married,Graduate,3,No,No,No,36000,0,36000,33000,Hatchback
+22,Male,Business,Single,Graduate,2,Yes,No,No,36700,0,36700,24000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,No,No,36000,0,36000,23000,Hatchback
+22,Male,Salaried,Married,Graduate,3,Yes,Yes,No,34700,0,34700,20000,Sedan
+22,Male,Salaried,Married,Graduate,3,Yes,No,No,34000,0,34000,19000,Hatchback
+22,Male,Salaried,Single,Graduate,2,No,Yes,No,33300,0,33300,27000,Hatchback
+22,Male,Business,Married,Graduate,4,No,No,No,32000,,32000,31000,Hatchback
+22,Male,Business,Single,Graduate,2,No,Yes,No,32900,0,32900,30000,Hatchback
+22,Male,Business,Married,Graduate,3,Yes,Yes,No,32200,,32200,24000,Hatchback
+22,Male,Salaried,Married,Graduate,4,No,No,No,31600,0,31600,31000,Hatchback
