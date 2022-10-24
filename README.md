@@ -1,3 +1,2 @@
-# PGP_DSBA_HandsOn_Python_Project
--Arnab Chowdhury
+# PGP_DSBA_Python_Project-Arnab Chowdhury
 -Hands on project on Python for Data Science!
